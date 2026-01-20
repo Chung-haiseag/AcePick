@@ -324,7 +324,7 @@ ThemeData getAppTheme() {
         borderRadius: BorderRadius.circular(8),
       ),
       tileColor: AppColors.surfaceLight,
-      selectedTileColor: AppColors.primary.withValues(alpha: 0.1),
+      selectedTileColor: AppColors.primary.withOpacity(0.1),
       textColor: AppColors.textPrimary,
       selectedColor: AppColors.primary,
     ),

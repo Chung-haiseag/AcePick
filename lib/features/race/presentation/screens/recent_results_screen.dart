@@ -46,7 +46,7 @@ class _RecentResultsScreenState extends State<RecentResultsScreen> {
 
         try {
           // KRA API 호출
-          final kraItems = await _repository.apiService.getAllRacesForDate(dateStr);
+          final kraItems = await KraApiService().getAllRacesForDate(dateStr);
 
           if (kraItems.isNotEmpty) {
             // 경마장별로 그룹화
@@ -72,7 +72,7 @@ class _RecentResultsScreenState extends State<RecentResultsScreen> {
               // 경주번호별로 그룹화
               final groupedByRace = <String, List<KraRaceItem>>{};
               for (var item in items) {
-                final rcNo = item.rcNo ?? '1';
+                final rcNo = (item.rcNo ?? 1).toString();
                 if (!groupedByRace.containsKey(rcNo)) {
                   groupedByRace[rcNo] = [];
                 }
