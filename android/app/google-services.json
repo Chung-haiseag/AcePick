@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911601510348",
+    "project_id": "acepick-mvp",
+    "storage_bucket": "acepick-mvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911601510348:android:8a1afacb848796e5e29f69",
+        "android_client_info": {
+          "package_name": "com.acepick.acepick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoUMHKYdGcBix2Et1iL7VQHHKrcRII61I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
