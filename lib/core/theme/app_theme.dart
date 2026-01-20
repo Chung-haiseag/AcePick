@@ -157,7 +157,7 @@ ThemeData getAppTheme() {
     // ========================================================================
     // CardTheme 설정
     // ========================================================================
-    cardTheme: CardThemeData(
+    cardTheme: CardTheme(
       color: AppColors.surfaceLight,
       elevation: 2,
       margin: const EdgeInsets.all(0),
@@ -332,7 +332,7 @@ ThemeData getAppTheme() {
     // ========================================================================
     // DialogTheme 설정
     // ========================================================================
-    dialogTheme: DialogThemeData(
+    dialogTheme: DialogTheme(
       backgroundColor: AppColors.surfaceLight,
       elevation: 8,
       shape: RoundedRectangleBorder(

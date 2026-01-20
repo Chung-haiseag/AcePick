@@ -7,6 +7,7 @@ import 'race_repository.dart';
 
 class KraRaceRepository implements RaceRepository {
   final KraApiService _apiService = KraApiService();
+  KraApiService get apiService => _apiService;
   final PredictionService _predictionService = PredictionService();
 
   @override
