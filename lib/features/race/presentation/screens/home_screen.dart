@@ -6,6 +6,7 @@ import 'package:acepick/features/race/presentation/screens/race_detail_screen.da
 import '../widgets/race_search_delegate.dart';
 import 'ai_accuracy_screen.dart';
 import 'recent_results_screen.dart';
+import '../../../result/presentation/screens/race_result_list_screen.dart';
 import 'package:acepick/features/tipster/presentation/screens/tipster_list_screen.dart';
 import 'package:acepick/features/portfolio/presentation/screens/portfolio_screen.dart';
 
@@ -94,6 +95,18 @@ class _HomeScreenState extends State<HomeScreen> {
                 context,
                 MaterialPageRoute(
                   builder: (context) => const RecentResultsScreen(),
+                ),
+              );
+            },
+          ),
+          // 경기 결과 (상세) 버튼
+          IconButton(
+            icon: const Icon(Icons.assessment),
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const RaceResultListScreen(),
                 ),
               );
             },
