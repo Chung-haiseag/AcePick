@@ -1,0 +1,7252 @@
+[
+  {
+    "tipster_id": "TIP_00038",
+    "username": "경마 과학자",
+    "verified": true,
+    "trust_index": {
+      "score": 86.4,
+      "components": {
+        "accuracy": 0.8,
+        "consistency": 0.937,
+        "volume": 430,
+        "transparency": 0.94
+      },
+      "brier_score": 0.172,
+      "roi": 23.33
+    },
+    "stats": {
+      "total_predictions": 421,
+      "wins": 152,
+      "places": 228,
+      "total_followers": 46027
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260314_10",
+        "predicted_rank": 3,
+        "actual_rank": 9,
+        "timestamp": "2025-12-30T21:11:19.548532"
+      },
+      {
+        "race_id": "R20260221_06",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2025-12-31T21:11:19.548537"
+      },
+      {
+        "race_id": "R20260307_10",
+        "predicted_rank": 9,
+        "actual_rank": 11,
+        "timestamp": "2026-01-01T21:11:19.548542"
+      },
+      {
+        "race_id": "R20260307_05",
+        "predicted_rank": 12,
+        "actual_rank": 6,
+        "timestamp": "2026-01-02T21:11:19.548546"
+      },
+      {
+        "race_id": "R20260228_06",
+        "predicted_rank": 9,
+        "actual_rank": 1,
+        "timestamp": "2026-01-03T21:11:19.548551"
+      },
+      {
+        "race_id": "R20260308_12",
+        "predicted_rank": 2,
+        "actual_rank": 11,
+        "timestamp": "2026-01-04T21:11:19.548555"
+      },
+      {
+        "race_id": "R20260322_09",
+        "predicted_rank": 8,
+        "actual_rank": 2,
+        "timestamp": "2026-01-05T21:11:19.548559"
+      },
+      {
+        "race_id": "R20260131_07",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-06T21:11:19.548564"
+      },
+      {
+        "race_id": "R20260215_07",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-07T21:11:19.548568"
+      },
+      {
+        "race_id": "R20260222_04",
+        "predicted_rank": 5,
+        "actual_rank": 11,
+        "timestamp": "2026-01-08T21:11:19.548577"
+      },
+      {
+        "race_id": "R20260322_11",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-09T21:11:19.548581"
+      },
+      {
+        "race_id": "R20260228_03",
+        "predicted_rank": 5,
+        "actual_rank": 7,
+        "timestamp": "2026-01-10T21:11:19.548586"
+      },
+      {
+        "race_id": "R20260301_07",
+        "predicted_rank": 2,
+        "actual_rank": 7,
+        "timestamp": "2026-01-11T21:11:19.548608"
+      },
+      {
+        "race_id": "R20260314_11",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-12T21:11:19.548612"
+      },
+      {
+        "race_id": "R20260214_10",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-13T21:11:19.548617"
+      },
+      {
+        "race_id": "R20260222_07",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-14T21:11:19.548622"
+      },
+      {
+        "race_id": "R20260221_11",
+        "predicted_rank": 3,
+        "actual_rank": 11,
+        "timestamp": "2026-01-15T21:11:19.548627"
+      },
+      {
+        "race_id": "R20260301_08",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-16T21:11:19.548633"
+      },
+      {
+        "race_id": "R20260214_02",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-17T21:11:19.548637"
+      },
+      {
+        "race_id": "R20260321_07",
+        "predicted_rank": 7,
+        "actual_rank": 2,
+        "timestamp": "2026-01-18T21:11:19.548642"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.548646"
+  },
+  {
+    "tipster_id": "TIP_00024",
+    "username": "배당사냥꾼",
+    "verified": false,
+    "trust_index": {
+      "score": 84.9,
+      "components": {
+        "accuracy": 0.772,
+        "consistency": 0.937,
+        "volume": 453,
+        "transparency": 0.803
+      },
+      "brier_score": 0.207,
+      "roi": 24.99
+    },
+    "stats": {
+      "total_predictions": 62,
+      "wins": 29,
+      "places": 35,
+      "total_followers": 31016
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260221_05",
+        "predicted_rank": 2,
+        "actual_rank": 11,
+        "timestamp": "2025-12-30T21:11:19.547243"
+      },
+      {
+        "race_id": "R20260228_07",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2025-12-31T21:11:19.547245"
+      },
+      {
+        "race_id": "R20260222_09",
+        "predicted_rank": 1,
+        "actual_rank": 2,
+        "timestamp": "2026-01-01T21:11:19.547256"
+      },
+      {
+        "race_id": "R20260321_07",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-02T21:11:19.547259"
+      },
+      {
+        "race_id": "R20260221_04",
+        "predicted_rank": 1,
+        "actual_rank": 6,
+        "timestamp": "2026-01-03T21:11:19.547262"
+      },
+      {
+        "race_id": "R20260322_03",
+        "predicted_rank": 5,
+        "actual_rank": 9,
+        "timestamp": "2026-01-04T21:11:19.547265"
+      },
+      {
+        "race_id": "R20260207_03",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-05T21:11:19.547267"
+      },
+      {
+        "race_id": "R20260221_06",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-06T21:11:19.547270"
+      },
+      {
+        "race_id": "R20260228_04",
+        "predicted_rank": 2,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.547272"
+      },
+      {
+        "race_id": "R20260222_03",
+        "predicted_rank": 5,
+        "actual_rank": 8,
+        "timestamp": "2026-01-08T21:11:19.547275"
+      },
+      {
+        "race_id": "R20260307_05",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-09T21:11:19.547278"
+      },
+      {
+        "race_id": "R20260215_05",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-10T21:11:19.547280"
+      },
+      {
+        "race_id": "R20260222_11",
+        "predicted_rank": 5,
+        "actual_rank": 12,
+        "timestamp": "2026-01-11T21:11:19.547283"
+      },
+      {
+        "race_id": "R20260301_02",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-12T21:11:19.547288"
+      },
+      {
+        "race_id": "R20260131_04",
+        "predicted_rank": 9,
+        "actual_rank": 3,
+        "timestamp": "2026-01-13T21:11:19.547291"
+      },
+      {
+        "race_id": "R20260208_08",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-14T21:11:19.547293"
+      },
+      {
+        "race_id": "R20260315_09",
+        "predicted_rank": 2,
+        "actual_rank": 4,
+        "timestamp": "2026-01-15T21:11:19.547296"
+      },
+      {
+        "race_id": "R20260131_12",
+        "predicted_rank": 8,
+        "actual_rank": 5,
+        "timestamp": "2026-01-16T21:11:19.547299"
+      },
+      {
+        "race_id": "R20260322_02",
+        "predicted_rank": 3,
+        "actual_rank": 2,
+        "timestamp": "2026-01-17T21:11:19.547302"
+      },
+      {
+        "race_id": "R20260207_04",
+        "predicted_rank": 9,
+        "actual_rank": 4,
+        "timestamp": "2026-01-18T21:11:19.547304"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547306"
+  },
+  {
+    "tipster_id": "TIP_00043",
+    "username": "경마 인플루언서",
+    "verified": false,
+    "trust_index": {
+      "score": 83.2,
+      "components": {
+        "accuracy": 0.754,
+        "consistency": 0.914,
+        "volume": 465,
+        "transparency": 0.921
+      },
+      "brier_score": 0.373,
+      "roi": 17.82
+    },
+    "stats": {
+      "total_predictions": 315,
+      "wins": 78,
+      "places": 184,
+      "total_followers": 1711
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260308_12",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2025-12-30T21:11:19.549112"
+      },
+      {
+        "race_id": "R20260315_04",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2025-12-31T21:11:19.549115"
+      },
+      {
+        "race_id": "R20260307_09",
+        "predicted_rank": 7,
+        "actual_rank": 4,
+        "timestamp": "2026-01-01T21:11:19.549117"
+      },
+      {
+        "race_id": "R20260322_03",
+        "predicted_rank": 2,
+        "actual_rank": 4,
+        "timestamp": "2026-01-02T21:11:19.549120"
+      },
+      {
+        "race_id": "R20260207_04",
+        "predicted_rank": 7,
+        "actual_rank": 10,
+        "timestamp": "2026-01-03T21:11:19.549123"
+      },
+      {
+        "race_id": "R20260208_08",
+        "predicted_rank": 11,
+        "actual_rank": 9,
+        "timestamp": "2026-01-04T21:11:19.549126"
+      },
+      {
+        "race_id": "R20260308_09",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-05T21:11:19.549128"
+      },
+      {
+        "race_id": "R20260208_02",
+        "predicted_rank": 1,
+        "actual_rank": 10,
+        "timestamp": "2026-01-06T21:11:19.549131"
+      },
+      {
+        "race_id": "R20260321_11",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.549133"
+      },
+      {
+        "race_id": "R20260221_09",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-08T21:11:19.549136"
+      },
+      {
+        "race_id": "R20260215_12",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-09T21:11:19.549138"
+      },
+      {
+        "race_id": "R20260314_12",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-10T21:11:19.549141"
+      },
+      {
+        "race_id": "R20260314_10",
+        "predicted_rank": 6,
+        "actual_rank": 3,
+        "timestamp": "2026-01-11T21:11:19.549143"
+      },
+      {
+        "race_id": "R20260321_09",
+        "predicted_rank": 3,
+        "actual_rank": 10,
+        "timestamp": "2026-01-12T21:11:19.549146"
+      },
+      {
+        "race_id": "R20260314_11",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-13T21:11:19.549148"
+      },
+      {
+        "race_id": "R20260301_01",
+        "predicted_rank": 6,
+        "actual_rank": 2,
+        "timestamp": "2026-01-14T21:11:19.549151"
+      },
+      {
+        "race_id": "R20260215_03",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-15T21:11:19.549153"
+      },
+      {
+        "race_id": "R20260308_03",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-16T21:11:19.549156"
+      },
+      {
+        "race_id": "R20260215_07",
+        "predicted_rank": 4,
+        "actual_rank": 10,
+        "timestamp": "2026-01-17T21:11:19.549159"
+      },
+      {
+        "race_id": "R20260301_12",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-18T21:11:19.549161"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.549163"
+  },
+  {
+    "tipster_id": "TIP_00003",
+    "username": "경마전문가",
+    "verified": false,
+    "trust_index": {
+      "score": 82.5,
+      "components": {
+        "accuracy": 0.885,
+        "consistency": 0.758,
+        "volume": 374,
+        "transparency": 0.925
+      },
+      "brier_score": 0.279,
+      "roi": 0.14
+    },
+    "stats": {
+      "total_predictions": 402,
+      "wins": 144,
+      "places": 162,
+      "total_followers": 24244
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260215_09",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2025-12-30T21:11:19.545335"
+      },
+      {
+        "race_id": "R20260208_04",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2025-12-31T21:11:19.545338"
+      },
+      {
+        "race_id": "R20260315_08",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-01T21:11:19.545340"
+      },
+      {
+        "race_id": "R20260221_01",
+        "predicted_rank": 2,
+        "actual_rank": 7,
+        "timestamp": "2026-01-02T21:11:19.545348"
+      },
+      {
+        "race_id": "R20260307_05",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-03T21:11:19.545350"
+      },
+      {
+        "race_id": "R20260208_08",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-04T21:11:19.545353"
+      },
+      {
+        "race_id": "R20260215_10",
+        "predicted_rank": 7,
+        "actual_rank": 6,
+        "timestamp": "2026-01-05T21:11:19.545355"
+      },
+      {
+        "race_id": "R20260222_07",
+        "predicted_rank": 7,
+        "actual_rank": 10,
+        "timestamp": "2026-01-06T21:11:19.545358"
+      },
+      {
+        "race_id": "R20260315_09",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-07T21:11:19.545361"
+      },
+      {
+        "race_id": "R20260322_08",
+        "predicted_rank": 10,
+        "actual_rank": 5,
+        "timestamp": "2026-01-08T21:11:19.545364"
+      },
+      {
+        "race_id": "R20260301_10",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-09T21:11:19.545366"
+      },
+      {
+        "race_id": "R20260307_09",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-10T21:11:19.545369"
+      },
+      {
+        "race_id": "R20260314_03",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-11T21:11:19.545371"
+      },
+      {
+        "race_id": "R20260301_11",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-12T21:11:19.545374"
+      },
+      {
+        "race_id": "R20260208_12",
+        "predicted_rank": 10,
+        "actual_rank": 3,
+        "timestamp": "2026-01-13T21:11:19.545376"
+      },
+      {
+        "race_id": "R20260322_06",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-14T21:11:19.545379"
+      },
+      {
+        "race_id": "R20260221_09",
+        "predicted_rank": 5,
+        "actual_rank": 12,
+        "timestamp": "2026-01-15T21:11:19.545382"
+      },
+      {
+        "race_id": "R20260301_01",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-16T21:11:19.545384"
+      },
+      {
+        "race_id": "R20260207_11",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-17T21:11:19.545387"
+      },
+      {
+        "race_id": "R20260221_11",
+        "predicted_rank": 2,
+        "actual_rank": 4,
+        "timestamp": "2026-01-18T21:11:19.545390"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.545392"
+  },
+  {
+    "tipster_id": "TIP_00005",
+    "username": "배당 최고의 인",
+    "verified": true,
+    "trust_index": {
+      "score": 81.4,
+      "components": {
+        "accuracy": 0.806,
+        "consistency": 0.862,
+        "volume": 275,
+        "transparency": 0.834
+      },
+      "brier_score": 0.16,
+      "roi": 14.32
+    },
+    "stats": {
+      "total_predictions": 443,
+      "wins": 221,
+      "places": 246,
+      "total_followers": 24255
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260221_09",
+        "predicted_rank": 10,
+        "actual_rank": 8,
+        "timestamp": "2025-12-30T21:11:19.545502"
+      },
+      {
+        "race_id": "R20260131_02",
+        "predicted_rank": 5,
+        "actual_rank": 6,
+        "timestamp": "2025-12-31T21:11:19.545506"
+      },
+      {
+        "race_id": "R20260308_05",
+        "predicted_rank": 10,
+        "actual_rank": 1,
+        "timestamp": "2026-01-01T21:11:19.545509"
+      },
+      {
+        "race_id": "R20260321_04",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-02T21:11:19.545511"
+      },
+      {
+        "race_id": "R20260207_02",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-03T21:11:19.545513"
+      },
+      {
+        "race_id": "R20260322_10",
+        "predicted_rank": 6,
+        "actual_rank": 12,
+        "timestamp": "2026-01-04T21:11:19.545516"
+      },
+      {
+        "race_id": "R20260307_10",
+        "predicted_rank": 5,
+        "actual_rank": 11,
+        "timestamp": "2026-01-05T21:11:19.545522"
+      },
+      {
+        "race_id": "R20260228_04",
+        "predicted_rank": 10,
+        "actual_rank": 6,
+        "timestamp": "2026-01-06T21:11:19.545526"
+      },
+      {
+        "race_id": "R20260222_03",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.545528"
+      },
+      {
+        "race_id": "R20260221_08",
+        "predicted_rank": 3,
+        "actual_rank": 12,
+        "timestamp": "2026-01-08T21:11:19.545531"
+      },
+      {
+        "race_id": "R20260208_06",
+        "predicted_rank": 9,
+        "actual_rank": 6,
+        "timestamp": "2026-01-09T21:11:19.545534"
+      },
+      {
+        "race_id": "R20260131_03",
+        "predicted_rank": 5,
+        "actual_rank": 6,
+        "timestamp": "2026-01-10T21:11:19.545536"
+      },
+      {
+        "race_id": "R20260315_12",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-11T21:11:19.545539"
+      },
+      {
+        "race_id": "R20260307_03",
+        "predicted_rank": 3,
+        "actual_rank": 9,
+        "timestamp": "2026-01-12T21:11:19.545542"
+      },
+      {
+        "race_id": "R20260321_07",
+        "predicted_rank": 9,
+        "actual_rank": 1,
+        "timestamp": "2026-01-13T21:11:19.545544"
+      },
+      {
+        "race_id": "R20260307_05",
+        "predicted_rank": 12,
+        "actual_rank": 4,
+        "timestamp": "2026-01-14T21:11:19.545550"
+      },
+      {
+        "race_id": "R20260207_03",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-15T21:11:19.545552"
+      },
+      {
+        "race_id": "R20260214_02",
+        "predicted_rank": 11,
+        "actual_rank": 7,
+        "timestamp": "2026-01-16T21:11:19.545555"
+      },
+      {
+        "race_id": "R20260214_05",
+        "predicted_rank": 6,
+        "actual_rank": 1,
+        "timestamp": "2026-01-17T21:11:19.545558"
+      },
+      {
+        "race_id": "R20260228_11",
+        "predicted_rank": 6,
+        "actual_rank": 12,
+        "timestamp": "2026-01-18T21:11:19.545561"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.545563"
+  },
+  {
+    "tipster_id": "TIP_00030",
+    "username": "배당 예측가",
+    "verified": false,
+    "trust_index": {
+      "score": 81.3,
+      "components": {
+        "accuracy": 0.659,
+        "consistency": 0.649,
+        "volume": 469,
+        "transparency": 0.936
+      },
+      "brier_score": 0.149,
+      "roi": 16.86
+    },
+    "stats": {
+      "total_predictions": 167,
+      "wins": 43,
+      "places": 53,
+      "total_followers": 32001
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260301_08",
+        "predicted_rank": 1,
+        "actual_rank": 10,
+        "timestamp": "2025-12-30T21:11:19.547727"
+      },
+      {
+        "race_id": "R20260321_02",
+        "predicted_rank": 8,
+        "actual_rank": 12,
+        "timestamp": "2025-12-31T21:11:19.547730"
+      },
+      {
+        "race_id": "R20260208_04",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-01T21:11:19.547753"
+      },
+      {
+        "race_id": "R20260308_06",
+        "predicted_rank": 8,
+        "actual_rank": 1,
+        "timestamp": "2026-01-02T21:11:19.547759"
+      },
+      {
+        "race_id": "R20260308_12",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-03T21:11:19.547762"
+      },
+      {
+        "race_id": "R20260321_04",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-04T21:11:19.547765"
+      },
+      {
+        "race_id": "R20260131_09",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-05T21:11:19.547767"
+      },
+      {
+        "race_id": "R20260208_10",
+        "predicted_rank": 12,
+        "actual_rank": 3,
+        "timestamp": "2026-01-06T21:11:19.547770"
+      },
+      {
+        "race_id": "R20260222_12",
+        "predicted_rank": 6,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.547773"
+      },
+      {
+        "race_id": "R20260301_05",
+        "predicted_rank": 11,
+        "actual_rank": 4,
+        "timestamp": "2026-01-08T21:11:19.547775"
+      },
+      {
+        "race_id": "R20260308_07",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-09T21:11:19.547778"
+      },
+      {
+        "race_id": "R20260321_05",
+        "predicted_rank": 10,
+        "actual_rank": 5,
+        "timestamp": "2026-01-10T21:11:19.547781"
+      },
+      {
+        "race_id": "R20260222_03",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-11T21:11:19.547783"
+      },
+      {
+        "race_id": "R20260322_11",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-12T21:11:19.547785"
+      },
+      {
+        "race_id": "R20260321_08",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-13T21:11:19.547788"
+      },
+      {
+        "race_id": "R20260214_09",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-14T21:11:19.547792"
+      },
+      {
+        "race_id": "R20260315_08",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-15T21:11:19.547795"
+      },
+      {
+        "race_id": "R20260314_02",
+        "predicted_rank": 3,
+        "actual_rank": 4,
+        "timestamp": "2026-01-16T21:11:19.547797"
+      },
+      {
+        "race_id": "R20260221_07",
+        "predicted_rank": 4,
+        "actual_rank": 7,
+        "timestamp": "2026-01-17T21:11:19.547800"
+      },
+      {
+        "race_id": "R20260314_10",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-18T21:11:19.547820"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547822"
+  },
+  {
+    "tipster_id": "TIP_00017",
+    "username": "경마 매직",
+    "verified": false,
+    "trust_index": {
+      "score": 80.5,
+      "components": {
+        "accuracy": 0.84,
+        "consistency": 0.708,
+        "volume": 356,
+        "transparency": 0.817
+      },
+      "brier_score": 0.229,
+      "roi": 2.95
+    },
+    "stats": {
+      "total_predictions": 413,
+      "wins": 224,
+      "places": 238,
+      "total_followers": 6246
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260215_11",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2025-12-30T21:11:19.546683"
+      },
+      {
+        "race_id": "R20260315_07",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2025-12-31T21:11:19.546686"
+      },
+      {
+        "race_id": "R20260207_05",
+        "predicted_rank": 9,
+        "actual_rank": 2,
+        "timestamp": "2026-01-01T21:11:19.546689"
+      },
+      {
+        "race_id": "R20260221_11",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-02T21:11:19.546691"
+      },
+      {
+        "race_id": "R20260308_03",
+        "predicted_rank": 7,
+        "actual_rank": 4,
+        "timestamp": "2026-01-03T21:11:19.546694"
+      },
+      {
+        "race_id": "R20260307_11",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-04T21:11:19.546696"
+      },
+      {
+        "race_id": "R20260314_12",
+        "predicted_rank": 12,
+        "actual_rank": 3,
+        "timestamp": "2026-01-05T21:11:19.546699"
+      },
+      {
+        "race_id": "R20260321_08",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-06T21:11:19.546702"
+      },
+      {
+        "race_id": "R20260307_08",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.546704"
+      },
+      {
+        "race_id": "R20260315_06",
+        "predicted_rank": 11,
+        "actual_rank": 4,
+        "timestamp": "2026-01-08T21:11:19.546707"
+      },
+      {
+        "race_id": "R20260207_01",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-09T21:11:19.546709"
+      },
+      {
+        "race_id": "R20260322_08",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-10T21:11:19.546712"
+      },
+      {
+        "race_id": "R20260221_09",
+        "predicted_rank": 5,
+        "actual_rank": 11,
+        "timestamp": "2026-01-11T21:11:19.546714"
+      },
+      {
+        "race_id": "R20260315_09",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-12T21:11:19.546717"
+      },
+      {
+        "race_id": "R20260207_12",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-13T21:11:19.546722"
+      },
+      {
+        "race_id": "R20260301_07",
+        "predicted_rank": 8,
+        "actual_rank": 10,
+        "timestamp": "2026-01-14T21:11:19.546724"
+      },
+      {
+        "race_id": "R20260308_06",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-15T21:11:19.546727"
+      },
+      {
+        "race_id": "R20260131_04",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-16T21:11:19.546729"
+      },
+      {
+        "race_id": "R20260301_04",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-17T21:11:19.546732"
+      },
+      {
+        "race_id": "R20260322_12",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-18T21:11:19.546734"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546736"
+  },
+  {
+    "tipster_id": "TIP_00004",
+    "username": "경마 컨설턴트",
+    "verified": false,
+    "trust_index": {
+      "score": 80.1,
+      "components": {
+        "accuracy": 0.809,
+        "consistency": 0.59,
+        "volume": 495,
+        "transparency": 0.757
+      },
+      "brier_score": 0.291,
+      "roi": 24.24
+    },
+    "stats": {
+      "total_predictions": 145,
+      "wins": 59,
+      "places": 56,
+      "total_followers": 1803
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260228_11",
+        "predicted_rank": 7,
+        "actual_rank": 9,
+        "timestamp": "2025-12-30T21:11:19.545420"
+      },
+      {
+        "race_id": "R20260308_02",
+        "predicted_rank": 5,
+        "actual_rank": 9,
+        "timestamp": "2025-12-31T21:11:19.545426"
+      },
+      {
+        "race_id": "R20260207_01",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-01T21:11:19.545429"
+      },
+      {
+        "race_id": "R20260208_07",
+        "predicted_rank": 10,
+        "actual_rank": 5,
+        "timestamp": "2026-01-02T21:11:19.545432"
+      },
+      {
+        "race_id": "R20260301_11",
+        "predicted_rank": 3,
+        "actual_rank": 8,
+        "timestamp": "2026-01-03T21:11:19.545435"
+      },
+      {
+        "race_id": "R20260314_03",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-04T21:11:19.545437"
+      },
+      {
+        "race_id": "R20260301_07",
+        "predicted_rank": 5,
+        "actual_rank": 11,
+        "timestamp": "2026-01-05T21:11:19.545440"
+      },
+      {
+        "race_id": "R20260301_05",
+        "predicted_rank": 7,
+        "actual_rank": 4,
+        "timestamp": "2026-01-06T21:11:19.545443"
+      },
+      {
+        "race_id": "R20260315_10",
+        "predicted_rank": 5,
+        "actual_rank": 8,
+        "timestamp": "2026-01-07T21:11:19.545446"
+      },
+      {
+        "race_id": "R20260322_05",
+        "predicted_rank": 10,
+        "actual_rank": 5,
+        "timestamp": "2026-01-08T21:11:19.545449"
+      },
+      {
+        "race_id": "R20260222_12",
+        "predicted_rank": 5,
+        "actual_rank": 9,
+        "timestamp": "2026-01-09T21:11:19.545452"
+      },
+      {
+        "race_id": "R20260131_03",
+        "predicted_rank": 11,
+        "actual_rank": 5,
+        "timestamp": "2026-01-10T21:11:19.545454"
+      },
+      {
+        "race_id": "R20260322_07",
+        "predicted_rank": 8,
+        "actual_rank": 9,
+        "timestamp": "2026-01-11T21:11:19.545457"
+      },
+      {
+        "race_id": "R20260314_02",
+        "predicted_rank": 5,
+        "actual_rank": 12,
+        "timestamp": "2026-01-12T21:11:19.545460"
+      },
+      {
+        "race_id": "R20260208_06",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-13T21:11:19.545463"
+      },
+      {
+        "race_id": "R20260131_11",
+        "predicted_rank": 9,
+        "actual_rank": 4,
+        "timestamp": "2026-01-14T21:11:19.545466"
+      },
+      {
+        "race_id": "R20260131_05",
+        "predicted_rank": 7,
+        "actual_rank": 9,
+        "timestamp": "2026-01-15T21:11:19.545469"
+      },
+      {
+        "race_id": "R20260315_01",
+        "predicted_rank": 8,
+        "actual_rank": 7,
+        "timestamp": "2026-01-16T21:11:19.545471"
+      },
+      {
+        "race_id": "R20260131_08",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-17T21:11:19.545474"
+      },
+      {
+        "race_id": "R20260321_03",
+        "predicted_rank": 10,
+        "actual_rank": 7,
+        "timestamp": "2026-01-18T21:11:19.545477"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.545479"
+  },
+  {
+    "tipster_id": "TIP_00040",
+    "username": "경마 스타",
+    "verified": true,
+    "trust_index": {
+      "score": 79.8,
+      "components": {
+        "accuracy": 0.829,
+        "consistency": 0.551,
+        "volume": 462,
+        "transparency": 0.765
+      },
+      "brier_score": 0.246,
+      "roi": 23.98
+    },
+    "stats": {
+      "total_predictions": 310,
+      "wins": 132,
+      "places": 174,
+      "total_followers": 38751
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260322_01",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2025-12-30T21:11:19.548822"
+      },
+      {
+        "race_id": "R20260228_07",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2025-12-31T21:11:19.548828"
+      },
+      {
+        "race_id": "R20260221_07",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-01T21:11:19.548832"
+      },
+      {
+        "race_id": "R20260301_11",
+        "predicted_rank": 6,
+        "actual_rank": 9,
+        "timestamp": "2026-01-02T21:11:19.548836"
+      },
+      {
+        "race_id": "R20260208_11",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-03T21:11:19.548840"
+      },
+      {
+        "race_id": "R20260301_12",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-04T21:11:19.548844"
+      },
+      {
+        "race_id": "R20260131_07",
+        "predicted_rank": 3,
+        "actual_rank": 7,
+        "timestamp": "2026-01-05T21:11:19.548849"
+      },
+      {
+        "race_id": "R20260315_09",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-06T21:11:19.548853"
+      },
+      {
+        "race_id": "R20260207_06",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-07T21:11:19.548857"
+      },
+      {
+        "race_id": "R20260314_09",
+        "predicted_rank": 3,
+        "actual_rank": 2,
+        "timestamp": "2026-01-08T21:11:19.548865"
+      },
+      {
+        "race_id": "R20260208_07",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-09T21:11:19.548870"
+      },
+      {
+        "race_id": "R20260214_01",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-10T21:11:19.548874"
+      },
+      {
+        "race_id": "R20260214_03",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-11T21:11:19.548878"
+      },
+      {
+        "race_id": "R20260301_08",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-12T21:11:19.548883"
+      },
+      {
+        "race_id": "R20260214_05",
+        "predicted_rank": 12,
+        "actual_rank": 9,
+        "timestamp": "2026-01-13T21:11:19.548888"
+      },
+      {
+        "race_id": "R20260221_02",
+        "predicted_rank": 10,
+        "actual_rank": 4,
+        "timestamp": "2026-01-14T21:11:19.548893"
+      },
+      {
+        "race_id": "R20260321_01",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-15T21:11:19.548898"
+      },
+      {
+        "race_id": "R20260314_07",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-16T21:11:19.548902"
+      },
+      {
+        "race_id": "R20260321_02",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-17T21:11:19.548907"
+      },
+      {
+        "race_id": "R20260228_02",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-18T21:11:19.548912"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.548915"
+  },
+  {
+    "tipster_id": "TIP_00011",
+    "username": "경마 멘토",
+    "verified": false,
+    "trust_index": {
+      "score": 79.5,
+      "components": {
+        "accuracy": 0.744,
+        "consistency": 0.654,
+        "volume": 494,
+        "transparency": 0.704
+      },
+      "brier_score": 0.285,
+      "roi": 10.82
+    },
+    "stats": {
+      "total_predictions": 319,
+      "wins": 142,
+      "places": 143,
+      "total_followers": 30362
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260315_09",
+        "predicted_rank": 10,
+        "actual_rank": 1,
+        "timestamp": "2025-12-30T21:11:19.546161"
+      },
+      {
+        "race_id": "R20260208_10",
+        "predicted_rank": 4,
+        "actual_rank": 2,
+        "timestamp": "2025-12-31T21:11:19.546165"
+      },
+      {
+        "race_id": "R20260131_07",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-01T21:11:19.546167"
+      },
+      {
+        "race_id": "R20260221_01",
+        "predicted_rank": 10,
+        "actual_rank": 7,
+        "timestamp": "2026-01-02T21:11:19.546170"
+      },
+      {
+        "race_id": "R20260208_11",
+        "predicted_rank": 5,
+        "actual_rank": 11,
+        "timestamp": "2026-01-03T21:11:19.546173"
+      },
+      {
+        "race_id": "R20260221_10",
+        "predicted_rank": 9,
+        "actual_rank": 6,
+        "timestamp": "2026-01-04T21:11:19.546175"
+      },
+      {
+        "race_id": "R20260228_04",
+        "predicted_rank": 4,
+        "actual_rank": 10,
+        "timestamp": "2026-01-05T21:11:19.546180"
+      },
+      {
+        "race_id": "R20260207_07",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-06T21:11:19.546183"
+      },
+      {
+        "race_id": "R20260315_11",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.546186"
+      },
+      {
+        "race_id": "R20260321_11",
+        "predicted_rank": 3,
+        "actual_rank": 5,
+        "timestamp": "2026-01-08T21:11:19.546189"
+      },
+      {
+        "race_id": "R20260214_01",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-09T21:11:19.546191"
+      },
+      {
+        "race_id": "R20260314_11",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-10T21:11:19.546194"
+      },
+      {
+        "race_id": "R20260321_04",
+        "predicted_rank": 9,
+        "actual_rank": 5,
+        "timestamp": "2026-01-11T21:11:19.546196"
+      },
+      {
+        "race_id": "R20260221_06",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-12T21:11:19.546199"
+      },
+      {
+        "race_id": "R20260321_10",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-13T21:11:19.546201"
+      },
+      {
+        "race_id": "R20260308_07",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-14T21:11:19.546204"
+      },
+      {
+        "race_id": "R20260308_02",
+        "predicted_rank": 5,
+        "actual_rank": 1,
+        "timestamp": "2026-01-15T21:11:19.546207"
+      },
+      {
+        "race_id": "R20260301_12",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-16T21:11:19.546209"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 12,
+        "actual_rank": 11,
+        "timestamp": "2026-01-17T21:11:19.546212"
+      },
+      {
+        "race_id": "R20260214_09",
+        "predicted_rank": 10,
+        "actual_rank": 3,
+        "timestamp": "2026-01-18T21:11:19.546215"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546217"
+  },
+  {
+    "tipster_id": "TIP_00047",
+    "username": "경마 분석기",
+    "verified": false,
+    "trust_index": {
+      "score": 78.5,
+      "components": {
+        "accuracy": 0.487,
+        "consistency": 0.843,
+        "volume": 365,
+        "transparency": 0.98
+      },
+      "brier_score": 0.201,
+      "roi": 0.32
+    },
+    "stats": {
+      "total_predictions": 165,
+      "wins": 42,
+      "places": 72,
+      "total_followers": 44761
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260301_04",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2025-12-30T21:11:19.549411"
+      },
+      {
+        "race_id": "R20260322_07",
+        "predicted_rank": 1,
+        "actual_rank": 11,
+        "timestamp": "2025-12-31T21:11:19.549415"
+      },
+      {
+        "race_id": "R20260215_10",
+        "predicted_rank": 6,
+        "actual_rank": 11,
+        "timestamp": "2026-01-01T21:11:19.549417"
+      },
+      {
+        "race_id": "R20260307_07",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-02T21:11:19.549420"
+      },
+      {
+        "race_id": "R20260314_12",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-03T21:11:19.549422"
+      },
+      {
+        "race_id": "R20260322_05",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-04T21:11:19.549425"
+      },
+      {
+        "race_id": "R20260221_03",
+        "predicted_rank": 10,
+        "actual_rank": 1,
+        "timestamp": "2026-01-05T21:11:19.549429"
+      },
+      {
+        "race_id": "R20260322_10",
+        "predicted_rank": 11,
+        "actual_rank": 8,
+        "timestamp": "2026-01-06T21:11:19.549432"
+      },
+      {
+        "race_id": "R20260308_01",
+        "predicted_rank": 9,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.549435"
+      },
+      {
+        "race_id": "R20260315_05",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-08T21:11:19.549437"
+      },
+      {
+        "race_id": "R20260214_02",
+        "predicted_rank": 8,
+        "actual_rank": 12,
+        "timestamp": "2026-01-09T21:11:19.549440"
+      },
+      {
+        "race_id": "R20260322_06",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-10T21:11:19.549442"
+      },
+      {
+        "race_id": "R20260208_07",
+        "predicted_rank": 1,
+        "actual_rank": 3,
+        "timestamp": "2026-01-11T21:11:19.549445"
+      },
+      {
+        "race_id": "R20260207_01",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-12T21:11:19.549447"
+      },
+      {
+        "race_id": "R20260222_01",
+        "predicted_rank": 5,
+        "actual_rank": 7,
+        "timestamp": "2026-01-13T21:11:19.549450"
+      },
+      {
+        "race_id": "R20260321_04",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-14T21:11:19.549455"
+      },
+      {
+        "race_id": "R20260228_09",
+        "predicted_rank": 1,
+        "actual_rank": 6,
+        "timestamp": "2026-01-15T21:11:19.549458"
+      },
+      {
+        "race_id": "R20260228_12",
+        "predicted_rank": 12,
+        "actual_rank": 1,
+        "timestamp": "2026-01-16T21:11:19.549461"
+      },
+      {
+        "race_id": "R20260222_06",
+        "predicted_rank": 3,
+        "actual_rank": 1,
+        "timestamp": "2026-01-17T21:11:19.549463"
+      },
+      {
+        "race_id": "R20260301_11",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-18T21:11:19.549466"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.549468"
+  },
+  {
+    "tipster_id": "TIP_00032",
+    "username": "경마 전문가",
+    "verified": false,
+    "trust_index": {
+      "score": 78.3,
+      "components": {
+        "accuracy": 0.664,
+        "consistency": 0.529,
+        "volume": 493,
+        "transparency": 0.904
+      },
+      "brier_score": 0.274,
+      "roi": 8.49
+    },
+    "stats": {
+      "total_predictions": 274,
+      "wins": 103,
+      "places": 177,
+      "total_followers": 22624
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260307_05",
+        "predicted_rank": 7,
+        "actual_rank": 11,
+        "timestamp": "2025-12-30T21:11:19.547942"
+      },
+      {
+        "race_id": "R20260228_01",
+        "predicted_rank": 9,
+        "actual_rank": 10,
+        "timestamp": "2025-12-31T21:11:19.547945"
+      },
+      {
+        "race_id": "R20260208_11",
+        "predicted_rank": 10,
+        "actual_rank": 2,
+        "timestamp": "2026-01-01T21:11:19.547948"
+      },
+      {
+        "race_id": "R20260301_09",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-02T21:11:19.547950"
+      },
+      {
+        "race_id": "R20260322_11",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-03T21:11:19.547953"
+      },
+      {
+        "race_id": "R20260207_01",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-04T21:11:19.547955"
+      },
+      {
+        "race_id": "R20260314_05",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-05T21:11:19.547957"
+      },
+      {
+        "race_id": "R20260221_02",
+        "predicted_rank": 9,
+        "actual_rank": 12,
+        "timestamp": "2026-01-06T21:11:19.547960"
+      },
+      {
+        "race_id": "R20260314_06",
+        "predicted_rank": 2,
+        "actual_rank": 7,
+        "timestamp": "2026-01-07T21:11:19.547963"
+      },
+      {
+        "race_id": "R20260222_02",
+        "predicted_rank": 2,
+        "actual_rank": 5,
+        "timestamp": "2026-01-08T21:11:19.547965"
+      },
+      {
+        "race_id": "R20260322_04",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-09T21:11:19.547968"
+      },
+      {
+        "race_id": "R20260322_10",
+        "predicted_rank": 7,
+        "actual_rank": 4,
+        "timestamp": "2026-01-10T21:11:19.547970"
+      },
+      {
+        "race_id": "R20260301_12",
+        "predicted_rank": 4,
+        "actual_rank": 5,
+        "timestamp": "2026-01-11T21:11:19.547973"
+      },
+      {
+        "race_id": "R20260221_08",
+        "predicted_rank": 1,
+        "actual_rank": 9,
+        "timestamp": "2026-01-12T21:11:19.547976"
+      },
+      {
+        "race_id": "R20260207_07",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-13T21:11:19.547981"
+      },
+      {
+        "race_id": "R20260228_09",
+        "predicted_rank": 12,
+        "actual_rank": 5,
+        "timestamp": "2026-01-14T21:11:19.547984"
+      },
+      {
+        "race_id": "R20260228_02",
+        "predicted_rank": 4,
+        "actual_rank": 5,
+        "timestamp": "2026-01-15T21:11:19.547987"
+      },
+      {
+        "race_id": "R20260131_06",
+        "predicted_rank": 11,
+        "actual_rank": 7,
+        "timestamp": "2026-01-16T21:11:19.547989"
+      },
+      {
+        "race_id": "R20260314_02",
+        "predicted_rank": 11,
+        "actual_rank": 7,
+        "timestamp": "2026-01-17T21:11:19.547992"
+      },
+      {
+        "race_id": "R20260301_01",
+        "predicted_rank": 3,
+        "actual_rank": 7,
+        "timestamp": "2026-01-18T21:11:19.547995"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.548000"
+  },
+  {
+    "tipster_id": "TIP_00049",
+    "username": "경마 전문가",
+    "verified": false,
+    "trust_index": {
+      "score": 78.1,
+      "components": {
+        "accuracy": 0.809,
+        "consistency": 0.678,
+        "volume": 384,
+        "transparency": 0.734
+      },
+      "brier_score": 0.336,
+      "roi": 16.66
+    },
+    "stats": {
+      "total_predictions": 355,
+      "wins": 192,
+      "places": 147,
+      "total_followers": 42435
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260207_01",
+        "predicted_rank": 2,
+        "actual_rank": 10,
+        "timestamp": "2025-12-30T21:11:19.549560"
+      },
+      {
+        "race_id": "R20260208_09",
+        "predicted_rank": 12,
+        "actual_rank": 8,
+        "timestamp": "2025-12-31T21:11:19.549563"
+      },
+      {
+        "race_id": "R20260322_10",
+        "predicted_rank": 2,
+        "actual_rank": 3,
+        "timestamp": "2026-01-01T21:11:19.549565"
+      },
+      {
+        "race_id": "R20260208_01",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-02T21:11:19.549568"
+      },
+      {
+        "race_id": "R20260222_07",
+        "predicted_rank": 3,
+        "actual_rank": 1,
+        "timestamp": "2026-01-03T21:11:19.549571"
+      },
+      {
+        "race_id": "R20260301_10",
+        "predicted_rank": 3,
+        "actual_rank": 2,
+        "timestamp": "2026-01-04T21:11:19.549573"
+      },
+      {
+        "race_id": "R20260228_08",
+        "predicted_rank": 1,
+        "actual_rank": 12,
+        "timestamp": "2026-01-05T21:11:19.549576"
+      },
+      {
+        "race_id": "R20260131_03",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-06T21:11:19.549578"
+      },
+      {
+        "race_id": "R20260315_07",
+        "predicted_rank": 12,
+        "actual_rank": 2,
+        "timestamp": "2026-01-07T21:11:19.549581"
+      },
+      {
+        "race_id": "R20260221_05",
+        "predicted_rank": 5,
+        "actual_rank": 8,
+        "timestamp": "2026-01-08T21:11:19.549586"
+      },
+      {
+        "race_id": "R20260208_08",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-09T21:11:19.549588"
+      },
+      {
+        "race_id": "R20260214_02",
+        "predicted_rank": 1,
+        "actual_rank": 11,
+        "timestamp": "2026-01-10T21:11:19.549591"
+      },
+      {
+        "race_id": "R20260222_03",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-11T21:11:19.549593"
+      },
+      {
+        "race_id": "R20260208_05",
+        "predicted_rank": 3,
+        "actual_rank": 8,
+        "timestamp": "2026-01-12T21:11:19.549596"
+      },
+      {
+        "race_id": "R20260308_05",
+        "predicted_rank": 8,
+        "actual_rank": 2,
+        "timestamp": "2026-01-13T21:11:19.549599"
+      },
+      {
+        "race_id": "R20260215_08",
+        "predicted_rank": 8,
+        "actual_rank": 2,
+        "timestamp": "2026-01-14T21:11:19.549601"
+      },
+      {
+        "race_id": "R20260321_09",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-15T21:11:19.549604"
+      },
+      {
+        "race_id": "R20260301_06",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-16T21:11:19.549607"
+      },
+      {
+        "race_id": "R20260228_05",
+        "predicted_rank": 4,
+        "actual_rank": 3,
+        "timestamp": "2026-01-17T21:11:19.549611"
+      },
+      {
+        "race_id": "R20260228_06",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-18T21:11:19.549614"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.549616"
+  },
+  {
+    "tipster_id": "TIP_00023",
+    "username": "배당사냥꾼",
+    "verified": false,
+    "trust_index": {
+      "score": 77.4,
+      "components": {
+        "accuracy": 0.579,
+        "consistency": 0.804,
+        "volume": 367,
+        "transparency": 0.891
+      },
+      "brier_score": 0.3,
+      "roi": 14.33
+    },
+    "stats": {
+      "total_predictions": 383,
+      "wins": 114,
+      "places": 188,
+      "total_followers": 3019
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260131_09",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2025-12-30T21:11:19.547164"
+      },
+      {
+        "race_id": "R20260322_10",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2025-12-31T21:11:19.547167"
+      },
+      {
+        "race_id": "R20260207_09",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-01T21:11:19.547169"
+      },
+      {
+        "race_id": "R20260221_03",
+        "predicted_rank": 6,
+        "actual_rank": 7,
+        "timestamp": "2026-01-02T21:11:19.547172"
+      },
+      {
+        "race_id": "R20260228_04",
+        "predicted_rank": 9,
+        "actual_rank": 8,
+        "timestamp": "2026-01-03T21:11:19.547175"
+      },
+      {
+        "race_id": "R20260308_01",
+        "predicted_rank": 5,
+        "actual_rank": 2,
+        "timestamp": "2026-01-04T21:11:19.547180"
+      },
+      {
+        "race_id": "R20260314_04",
+        "predicted_rank": 5,
+        "actual_rank": 4,
+        "timestamp": "2026-01-05T21:11:19.547183"
+      },
+      {
+        "race_id": "R20260207_08",
+        "predicted_rank": 4,
+        "actual_rank": 7,
+        "timestamp": "2026-01-06T21:11:19.547186"
+      },
+      {
+        "race_id": "R20260315_08",
+        "predicted_rank": 6,
+        "actual_rank": 5,
+        "timestamp": "2026-01-07T21:11:19.547188"
+      },
+      {
+        "race_id": "R20260222_02",
+        "predicted_rank": 2,
+        "actual_rank": 11,
+        "timestamp": "2026-01-08T21:11:19.547192"
+      },
+      {
+        "race_id": "R20260222_10",
+        "predicted_rank": 6,
+        "actual_rank": 9,
+        "timestamp": "2026-01-09T21:11:19.547197"
+      },
+      {
+        "race_id": "R20260131_08",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-10T21:11:19.547199"
+      },
+      {
+        "race_id": "R20260222_08",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-11T21:11:19.547202"
+      },
+      {
+        "race_id": "R20260322_08",
+        "predicted_rank": 9,
+        "actual_rank": 8,
+        "timestamp": "2026-01-12T21:11:19.547205"
+      },
+      {
+        "race_id": "R20260215_06",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-13T21:11:19.547207"
+      },
+      {
+        "race_id": "R20260321_12",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-14T21:11:19.547210"
+      },
+      {
+        "race_id": "R20260322_06",
+        "predicted_rank": 1,
+        "actual_rank": 7,
+        "timestamp": "2026-01-15T21:11:19.547213"
+      },
+      {
+        "race_id": "R20260208_02",
+        "predicted_rank": 11,
+        "actual_rank": 7,
+        "timestamp": "2026-01-16T21:11:19.547215"
+      },
+      {
+        "race_id": "R20260221_04",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-17T21:11:19.547218"
+      },
+      {
+        "race_id": "R20260301_08",
+        "predicted_rank": 4,
+        "actual_rank": 12,
+        "timestamp": "2026-01-18T21:11:19.547220"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547223"
+  },
+  {
+    "tipster_id": "TIP_00036",
+    "username": "경마 연구원",
+    "verified": true,
+    "trust_index": {
+      "score": 77.3,
+      "components": {
+        "accuracy": 0.6,
+        "consistency": 0.776,
+        "volume": 348,
+        "transparency": 0.764
+      },
+      "brier_score": 0.197,
+      "roi": 4.23
+    },
+    "stats": {
+      "total_predictions": 423,
+      "wins": 227,
+      "places": 200,
+      "total_followers": 3505
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260221_09",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2025-12-30T21:11:19.548247"
+      },
+      {
+        "race_id": "R20260315_08",
+        "predicted_rank": 10,
+        "actual_rank": 8,
+        "timestamp": "2025-12-31T21:11:19.548259"
+      },
+      {
+        "race_id": "R20260307_06",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-01T21:11:19.548265"
+      },
+      {
+        "race_id": "R20260308_08",
+        "predicted_rank": 6,
+        "actual_rank": 3,
+        "timestamp": "2026-01-02T21:11:19.548270"
+      },
+      {
+        "race_id": "R20260307_09",
+        "predicted_rank": 11,
+        "actual_rank": 1,
+        "timestamp": "2026-01-03T21:11:19.548274"
+      },
+      {
+        "race_id": "R20260314_02",
+        "predicted_rank": 12,
+        "actual_rank": 10,
+        "timestamp": "2026-01-04T21:11:19.548279"
+      },
+      {
+        "race_id": "R20260208_04",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-05T21:11:19.548282"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 3,
+        "actual_rank": 9,
+        "timestamp": "2026-01-06T21:11:19.548286"
+      },
+      {
+        "race_id": "R20260221_11",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-07T21:11:19.548290"
+      },
+      {
+        "race_id": "R20260314_11",
+        "predicted_rank": 5,
+        "actual_rank": 3,
+        "timestamp": "2026-01-08T21:11:19.548294"
+      },
+      {
+        "race_id": "R20260131_01",
+        "predicted_rank": 6,
+        "actual_rank": 1,
+        "timestamp": "2026-01-09T21:11:19.548298"
+      },
+      {
+        "race_id": "R20260314_09",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-10T21:11:19.548302"
+      },
+      {
+        "race_id": "R20260214_04",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-11T21:11:19.548306"
+      },
+      {
+        "race_id": "R20260315_11",
+        "predicted_rank": 3,
+        "actual_rank": 11,
+        "timestamp": "2026-01-12T21:11:19.548325"
+      },
+      {
+        "race_id": "R20260228_05",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-13T21:11:19.548329"
+      },
+      {
+        "race_id": "R20260308_05",
+        "predicted_rank": 1,
+        "actual_rank": 10,
+        "timestamp": "2026-01-14T21:11:19.548334"
+      },
+      {
+        "race_id": "R20260322_08",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-15T21:11:19.548338"
+      },
+      {
+        "race_id": "R20260208_09",
+        "predicted_rank": 9,
+        "actual_rank": 2,
+        "timestamp": "2026-01-16T21:11:19.548342"
+      },
+      {
+        "race_id": "R20260214_12",
+        "predicted_rank": 7,
+        "actual_rank": 2,
+        "timestamp": "2026-01-17T21:11:19.548347"
+      },
+      {
+        "race_id": "R20260222_07",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-18T21:11:19.548351"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.548355"
+  },
+  {
+    "tipster_id": "TIP_00033",
+    "username": "경마 연구원",
+    "verified": true,
+    "trust_index": {
+      "score": 77.2,
+      "components": {
+        "accuracy": 0.827,
+        "consistency": 0.522,
+        "volume": 311,
+        "transparency": 0.723
+      },
+      "brier_score": 0.141,
+      "roi": 16.67
+    },
+    "stats": {
+      "total_predictions": 312,
+      "wins": 161,
+      "places": 141,
+      "total_followers": 28474
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260221_11",
+        "predicted_rank": 2,
+        "actual_rank": 9,
+        "timestamp": "2025-12-30T21:11:19.548019"
+      },
+      {
+        "race_id": "R20260307_04",
+        "predicted_rank": 6,
+        "actual_rank": 2,
+        "timestamp": "2025-12-31T21:11:19.548022"
+      },
+      {
+        "race_id": "R20260301_02",
+        "predicted_rank": 6,
+        "actual_rank": 8,
+        "timestamp": "2026-01-01T21:11:19.548025"
+      },
+      {
+        "race_id": "R20260307_09",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-02T21:11:19.548028"
+      },
+      {
+        "race_id": "R20260228_07",
+        "predicted_rank": 12,
+        "actual_rank": 6,
+        "timestamp": "2026-01-03T21:11:19.548033"
+      },
+      {
+        "race_id": "R20260322_02",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-04T21:11:19.548036"
+      },
+      {
+        "race_id": "R20260228_09",
+        "predicted_rank": 10,
+        "actual_rank": 12,
+        "timestamp": "2026-01-05T21:11:19.548039"
+      },
+      {
+        "race_id": "R20260221_12",
+        "predicted_rank": 4,
+        "actual_rank": 5,
+        "timestamp": "2026-01-06T21:11:19.548042"
+      },
+      {
+        "race_id": "R20260314_01",
+        "predicted_rank": 2,
+        "actual_rank": 1,
+        "timestamp": "2026-01-07T21:11:19.548044"
+      },
+      {
+        "race_id": "R20260321_07",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-08T21:11:19.548047"
+      },
+      {
+        "race_id": "R20260208_04",
+        "predicted_rank": 1,
+        "actual_rank": 2,
+        "timestamp": "2026-01-09T21:11:19.548050"
+      },
+      {
+        "race_id": "R20260215_05",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-10T21:11:19.548052"
+      },
+      {
+        "race_id": "R20260228_02",
+        "predicted_rank": 11,
+        "actual_rank": 4,
+        "timestamp": "2026-01-11T21:11:19.548055"
+      },
+      {
+        "race_id": "R20260301_07",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-12T21:11:19.548057"
+      },
+      {
+        "race_id": "R20260314_02",
+        "predicted_rank": 3,
+        "actual_rank": 9,
+        "timestamp": "2026-01-13T21:11:19.548060"
+      },
+      {
+        "race_id": "R20260208_02",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-14T21:11:19.548062"
+      },
+      {
+        "race_id": "R20260221_05",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-15T21:11:19.548064"
+      },
+      {
+        "race_id": "R20260301_10",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-16T21:11:19.548067"
+      },
+      {
+        "race_id": "R20260208_07",
+        "predicted_rank": 7,
+        "actual_rank": 4,
+        "timestamp": "2026-01-17T21:11:19.548070"
+      },
+      {
+        "race_id": "R20260314_10",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-18T21:11:19.548072"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.548074"
+  },
+  {
+    "tipster_id": "TIP_00035",
+    "username": "경마 연구원",
+    "verified": false,
+    "trust_index": {
+      "score": 77.1,
+      "components": {
+        "accuracy": 0.811,
+        "consistency": 0.661,
+        "volume": 167,
+        "transparency": 0.961
+      },
+      "brier_score": 0.183,
+      "roi": 19.28
+    },
+    "stats": {
+      "total_predictions": 76,
+      "wins": 31,
+      "places": 38,
+      "total_followers": 27701
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260308_12",
+        "predicted_rank": 4,
+        "actual_rank": 1,
+        "timestamp": "2025-12-30T21:11:19.548172"
+      },
+      {
+        "race_id": "R20260322_11",
+        "predicted_rank": 6,
+        "actual_rank": 5,
+        "timestamp": "2025-12-31T21:11:19.548175"
+      },
+      {
+        "race_id": "R20260314_11",
+        "predicted_rank": 9,
+        "actual_rank": 10,
+        "timestamp": "2026-01-01T21:11:19.548178"
+      },
+      {
+        "race_id": "R20260215_05",
+        "predicted_rank": 8,
+        "actual_rank": 6,
+        "timestamp": "2026-01-02T21:11:19.548181"
+      },
+      {
+        "race_id": "R20260131_09",
+        "predicted_rank": 4,
+        "actual_rank": 1,
+        "timestamp": "2026-01-03T21:11:19.548184"
+      },
+      {
+        "race_id": "R20260208_03",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-04T21:11:19.548186"
+      },
+      {
+        "race_id": "R20260308_11",
+        "predicted_rank": 8,
+        "actual_rank": 6,
+        "timestamp": "2026-01-05T21:11:19.548189"
+      },
+      {
+        "race_id": "R20260221_01",
+        "predicted_rank": 3,
+        "actual_rank": 12,
+        "timestamp": "2026-01-06T21:11:19.548191"
+      },
+      {
+        "race_id": "R20260307_07",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-07T21:11:19.548194"
+      },
+      {
+        "race_id": "R20260214_09",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-08T21:11:19.548196"
+      },
+      {
+        "race_id": "R20260322_09",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-09T21:11:19.548199"
+      },
+      {
+        "race_id": "R20260321_07",
+        "predicted_rank": 7,
+        "actual_rank": 6,
+        "timestamp": "2026-01-10T21:11:19.548201"
+      },
+      {
+        "race_id": "R20260221_09",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-11T21:11:19.548206"
+      },
+      {
+        "race_id": "R20260315_09",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-12T21:11:19.548209"
+      },
+      {
+        "race_id": "R20260131_05",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-13T21:11:19.548213"
+      },
+      {
+        "race_id": "R20260222_08",
+        "predicted_rank": 9,
+        "actual_rank": 12,
+        "timestamp": "2026-01-14T21:11:19.548216"
+      },
+      {
+        "race_id": "R20260214_06",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-15T21:11:19.548218"
+      },
+      {
+        "race_id": "R20260208_06",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-16T21:11:19.548221"
+      },
+      {
+        "race_id": "R20260215_01",
+        "predicted_rank": 3,
+        "actual_rank": 12,
+        "timestamp": "2026-01-17T21:11:19.548223"
+      },
+      {
+        "race_id": "R20260314_01",
+        "predicted_rank": 9,
+        "actual_rank": 6,
+        "timestamp": "2026-01-18T21:11:19.548226"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.548228"
+  },
+  {
+    "tipster_id": "TIP_00048",
+    "username": "마권 분석기",
+    "verified": true,
+    "trust_index": {
+      "score": 77.1,
+      "components": {
+        "accuracy": 0.733,
+        "consistency": 0.84,
+        "volume": 210,
+        "transparency": 0.875
+      },
+      "brier_score": 0.286,
+      "roi": 19.8
+    },
+    "stats": {
+      "total_predictions": 259,
+      "wins": 105,
+      "places": 167,
+      "total_followers": 27173
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260228_03",
+        "predicted_rank": 9,
+        "actual_rank": 5,
+        "timestamp": "2025-12-30T21:11:19.549486"
+      },
+      {
+        "race_id": "R20260322_08",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2025-12-31T21:11:19.549489"
+      },
+      {
+        "race_id": "R20260207_10",
+        "predicted_rank": 7,
+        "actual_rank": 9,
+        "timestamp": "2026-01-01T21:11:19.549494"
+      },
+      {
+        "race_id": "R20260314_01",
+        "predicted_rank": 11,
+        "actual_rank": 7,
+        "timestamp": "2026-01-02T21:11:19.549497"
+      },
+      {
+        "race_id": "R20260131_12",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-03T21:11:19.549499"
+      },
+      {
+        "race_id": "R20260222_02",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-04T21:11:19.549501"
+      },
+      {
+        "race_id": "R20260215_03",
+        "predicted_rank": 12,
+        "actual_rank": 6,
+        "timestamp": "2026-01-05T21:11:19.549504"
+      },
+      {
+        "race_id": "R20260314_12",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-06T21:11:19.549507"
+      },
+      {
+        "race_id": "R20260207_07",
+        "predicted_rank": 5,
+        "actual_rank": 2,
+        "timestamp": "2026-01-07T21:11:19.549509"
+      },
+      {
+        "race_id": "R20260308_02",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-08T21:11:19.549512"
+      },
+      {
+        "race_id": "R20260215_02",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-09T21:11:19.549514"
+      },
+      {
+        "race_id": "R20260228_05",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-10T21:11:19.549517"
+      },
+      {
+        "race_id": "R20260322_12",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-11T21:11:19.549519"
+      },
+      {
+        "race_id": "R20260315_12",
+        "predicted_rank": 5,
+        "actual_rank": 6,
+        "timestamp": "2026-01-12T21:11:19.549522"
+      },
+      {
+        "race_id": "R20260131_02",
+        "predicted_rank": 4,
+        "actual_rank": 8,
+        "timestamp": "2026-01-13T21:11:19.549524"
+      },
+      {
+        "race_id": "R20260228_02",
+        "predicted_rank": 4,
+        "actual_rank": 11,
+        "timestamp": "2026-01-14T21:11:19.549527"
+      },
+      {
+        "race_id": "R20260222_12",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-15T21:11:19.549529"
+      },
+      {
+        "race_id": "R20260228_12",
+        "predicted_rank": 5,
+        "actual_rank": 10,
+        "timestamp": "2026-01-16T21:11:19.549532"
+      },
+      {
+        "race_id": "R20260314_04",
+        "predicted_rank": 1,
+        "actual_rank": 7,
+        "timestamp": "2026-01-17T21:11:19.549535"
+      },
+      {
+        "race_id": "R20260307_04",
+        "predicted_rank": 3,
+        "actual_rank": 9,
+        "timestamp": "2026-01-18T21:11:19.549538"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.549540"
+  },
+  {
+    "tipster_id": "TIP_00026",
+    "username": "말 읽는 사람",
+    "verified": false,
+    "trust_index": {
+      "score": 76.6,
+      "components": {
+        "accuracy": 0.419,
+        "consistency": 0.673,
+        "volume": 486,
+        "transparency": 0.914
+      },
+      "brier_score": 0.238,
+      "roi": -6.87
+    },
+    "stats": {
+      "total_predictions": 182,
+      "wins": 96,
+      "places": 75,
+      "total_followers": 5208
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260321_07",
+        "predicted_rank": 7,
+        "actual_rank": 12,
+        "timestamp": "2025-12-30T21:11:19.547407"
+      },
+      {
+        "race_id": "R20260301_10",
+        "predicted_rank": 5,
+        "actual_rank": 9,
+        "timestamp": "2025-12-31T21:11:19.547411"
+      },
+      {
+        "race_id": "R20260207_11",
+        "predicted_rank": 12,
+        "actual_rank": 7,
+        "timestamp": "2026-01-01T21:11:19.547414"
+      },
+      {
+        "race_id": "R20260315_05",
+        "predicted_rank": 11,
+        "actual_rank": 3,
+        "timestamp": "2026-01-02T21:11:19.547416"
+      },
+      {
+        "race_id": "R20260314_10",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-03T21:11:19.547419"
+      },
+      {
+        "race_id": "R20260308_05",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-04T21:11:19.547422"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 12,
+        "actual_rank": 3,
+        "timestamp": "2026-01-05T21:11:19.547425"
+      },
+      {
+        "race_id": "R20260214_10",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-06T21:11:19.547427"
+      },
+      {
+        "race_id": "R20260214_11",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.547429"
+      },
+      {
+        "race_id": "R20260214_03",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-08T21:11:19.547432"
+      },
+      {
+        "race_id": "R20260221_03",
+        "predicted_rank": 4,
+        "actual_rank": 10,
+        "timestamp": "2026-01-09T21:11:19.547435"
+      },
+      {
+        "race_id": "R20260308_06",
+        "predicted_rank": 3,
+        "actual_rank": 9,
+        "timestamp": "2026-01-10T21:11:19.547438"
+      },
+      {
+        "race_id": "R20260301_11",
+        "predicted_rank": 8,
+        "actual_rank": 4,
+        "timestamp": "2026-01-11T21:11:19.547441"
+      },
+      {
+        "race_id": "R20260228_08",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-12T21:11:19.547443"
+      },
+      {
+        "race_id": "R20260321_12",
+        "predicted_rank": 7,
+        "actual_rank": 9,
+        "timestamp": "2026-01-13T21:11:19.547446"
+      },
+      {
+        "race_id": "R20260321_04",
+        "predicted_rank": 6,
+        "actual_rank": 11,
+        "timestamp": "2026-01-14T21:11:19.547448"
+      },
+      {
+        "race_id": "R20260307_07",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-15T21:11:19.547451"
+      },
+      {
+        "race_id": "R20260314_03",
+        "predicted_rank": 8,
+        "actual_rank": 10,
+        "timestamp": "2026-01-16T21:11:19.547454"
+      },
+      {
+        "race_id": "R20260214_12",
+        "predicted_rank": 3,
+        "actual_rank": 7,
+        "timestamp": "2026-01-17T21:11:19.547457"
+      },
+      {
+        "race_id": "R20260221_11",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-18T21:11:19.547459"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547461"
+  },
+  {
+    "tipster_id": "TIP_00020",
+    "username": "경마 인플루언서",
+    "verified": false,
+    "trust_index": {
+      "score": 76.1,
+      "components": {
+        "accuracy": 0.545,
+        "consistency": 0.518,
+        "volume": 453,
+        "transparency": 0.927
+      },
+      "brier_score": 0.227,
+      "roi": 2.84
+    },
+    "stats": {
+      "total_predictions": 487,
+      "wins": 156,
+      "places": 284,
+      "total_followers": 31885
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260321_03",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2025-12-30T21:11:19.546915"
+      },
+      {
+        "race_id": "R20260321_11",
+        "predicted_rank": 4,
+        "actual_rank": 12,
+        "timestamp": "2025-12-31T21:11:19.546919"
+      },
+      {
+        "race_id": "R20260307_04",
+        "predicted_rank": 2,
+        "actual_rank": 1,
+        "timestamp": "2026-01-01T21:11:19.546922"
+      },
+      {
+        "race_id": "R20260308_01",
+        "predicted_rank": 9,
+        "actual_rank": 11,
+        "timestamp": "2026-01-02T21:11:19.546924"
+      },
+      {
+        "race_id": "R20260207_11",
+        "predicted_rank": 12,
+        "actual_rank": 7,
+        "timestamp": "2026-01-03T21:11:19.546927"
+      },
+      {
+        "race_id": "R20260222_05",
+        "predicted_rank": 7,
+        "actual_rank": 12,
+        "timestamp": "2026-01-04T21:11:19.546930"
+      },
+      {
+        "race_id": "R20260221_01",
+        "predicted_rank": 3,
+        "actual_rank": 6,
+        "timestamp": "2026-01-05T21:11:19.546936"
+      },
+      {
+        "race_id": "R20260308_06",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-06T21:11:19.546938"
+      },
+      {
+        "race_id": "R20260221_10",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-07T21:11:19.546941"
+      },
+      {
+        "race_id": "R20260215_07",
+        "predicted_rank": 8,
+        "actual_rank": 3,
+        "timestamp": "2026-01-08T21:11:19.546943"
+      },
+      {
+        "race_id": "R20260214_11",
+        "predicted_rank": 11,
+        "actual_rank": 7,
+        "timestamp": "2026-01-09T21:11:19.546949"
+      },
+      {
+        "race_id": "R20260131_01",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-10T21:11:19.546951"
+      },
+      {
+        "race_id": "R20260208_01",
+        "predicted_rank": 5,
+        "actual_rank": 6,
+        "timestamp": "2026-01-11T21:11:19.546954"
+      },
+      {
+        "race_id": "R20260228_07",
+        "predicted_rank": 6,
+        "actual_rank": 4,
+        "timestamp": "2026-01-12T21:11:19.546957"
+      },
+      {
+        "race_id": "R20260221_08",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-13T21:11:19.546959"
+      },
+      {
+        "race_id": "R20260315_06",
+        "predicted_rank": 3,
+        "actual_rank": 4,
+        "timestamp": "2026-01-14T21:11:19.546962"
+      },
+      {
+        "race_id": "R20260308_03",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-15T21:11:19.546964"
+      },
+      {
+        "race_id": "R20260322_02",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-16T21:11:19.546967"
+      },
+      {
+        "race_id": "R20260228_02",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-17T21:11:19.546970"
+      },
+      {
+        "race_id": "R20260315_12",
+        "predicted_rank": 3,
+        "actual_rank": 5,
+        "timestamp": "2026-01-18T21:11:19.546973"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546975"
+  },
+  {
+    "tipster_id": "TIP_00007",
+    "username": "배당분석가",
+    "verified": false,
+    "trust_index": {
+      "score": 75.9,
+      "components": {
+        "accuracy": 0.65,
+        "consistency": 0.573,
+        "volume": 325,
+        "transparency": 0.785
+      },
+      "brier_score": 0.136,
+      "roi": 14.93
+    },
+    "stats": {
+      "total_predictions": 414,
+      "wins": 157,
+      "places": 174,
+      "total_followers": 777
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260131_12",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2025-12-30T21:11:19.545663"
+      },
+      {
+        "race_id": "R20260214_06",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2025-12-31T21:11:19.545666"
+      },
+      {
+        "race_id": "R20260221_09",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-01T21:11:19.545668"
+      },
+      {
+        "race_id": "R20260308_03",
+        "predicted_rank": 5,
+        "actual_rank": 3,
+        "timestamp": "2026-01-02T21:11:19.545671"
+      },
+      {
+        "race_id": "R20260315_07",
+        "predicted_rank": 4,
+        "actual_rank": 1,
+        "timestamp": "2026-01-03T21:11:19.545674"
+      },
+      {
+        "race_id": "R20260208_04",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-04T21:11:19.545676"
+      },
+      {
+        "race_id": "R20260221_08",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-05T21:11:19.545679"
+      },
+      {
+        "race_id": "R20260314_05",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-06T21:11:19.545681"
+      },
+      {
+        "race_id": "R20260308_12",
+        "predicted_rank": 7,
+        "actual_rank": 3,
+        "timestamp": "2026-01-07T21:11:19.545684"
+      },
+      {
+        "race_id": "R20260301_04",
+        "predicted_rank": 11,
+        "actual_rank": 9,
+        "timestamp": "2026-01-08T21:11:19.545687"
+      },
+      {
+        "race_id": "R20260208_05",
+        "predicted_rank": 7,
+        "actual_rank": 2,
+        "timestamp": "2026-01-09T21:11:19.545690"
+      },
+      {
+        "race_id": "R20260307_11",
+        "predicted_rank": 3,
+        "actual_rank": 1,
+        "timestamp": "2026-01-10T21:11:19.545693"
+      },
+      {
+        "race_id": "R20260215_09",
+        "predicted_rank": 9,
+        "actual_rank": 6,
+        "timestamp": "2026-01-11T21:11:19.545696"
+      },
+      {
+        "race_id": "R20260222_07",
+        "predicted_rank": 1,
+        "actual_rank": 11,
+        "timestamp": "2026-01-12T21:11:19.545698"
+      },
+      {
+        "race_id": "R20260215_12",
+        "predicted_rank": 6,
+        "actual_rank": 1,
+        "timestamp": "2026-01-13T21:11:19.545701"
+      },
+      {
+        "race_id": "R20260222_03",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-14T21:11:19.545704"
+      },
+      {
+        "race_id": "R20260322_09",
+        "predicted_rank": 7,
+        "actual_rank": 3,
+        "timestamp": "2026-01-15T21:11:19.545706"
+      },
+      {
+        "race_id": "R20260228_09",
+        "predicted_rank": 2,
+        "actual_rank": 5,
+        "timestamp": "2026-01-16T21:11:19.545709"
+      },
+      {
+        "race_id": "R20260215_02",
+        "predicted_rank": 2,
+        "actual_rank": 9,
+        "timestamp": "2026-01-17T21:11:19.545712"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 8,
+        "actual_rank": 10,
+        "timestamp": "2026-01-18T21:11:19.545715"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.545717"
+  },
+  {
+    "tipster_id": "TIP_00029",
+    "username": "배당분석가",
+    "verified": false,
+    "trust_index": {
+      "score": 75.9,
+      "components": {
+        "accuracy": 0.476,
+        "consistency": 0.825,
+        "volume": 414,
+        "transparency": 0.718
+      },
+      "brier_score": 0.28,
+      "roi": 0.78
+    },
+    "stats": {
+      "total_predictions": 126,
+      "wins": 40,
+      "places": 46,
+      "total_followers": 30035
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260208_04",
+        "predicted_rank": 10,
+        "actual_rank": 4,
+        "timestamp": "2025-12-30T21:11:19.547648"
+      },
+      {
+        "race_id": "R20260301_04",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2025-12-31T21:11:19.547654"
+      },
+      {
+        "race_id": "R20260314_11",
+        "predicted_rank": 8,
+        "actual_rank": 7,
+        "timestamp": "2026-01-01T21:11:19.547657"
+      },
+      {
+        "race_id": "R20260208_06",
+        "predicted_rank": 11,
+        "actual_rank": 7,
+        "timestamp": "2026-01-02T21:11:19.547660"
+      },
+      {
+        "race_id": "R20260221_08",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-03T21:11:19.547663"
+      },
+      {
+        "race_id": "R20260308_03",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-04T21:11:19.547666"
+      },
+      {
+        "race_id": "R20260301_11",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-05T21:11:19.547668"
+      },
+      {
+        "race_id": "R20260214_04",
+        "predicted_rank": 9,
+        "actual_rank": 3,
+        "timestamp": "2026-01-06T21:11:19.547671"
+      },
+      {
+        "race_id": "R20260308_09",
+        "predicted_rank": 6,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.547674"
+      },
+      {
+        "race_id": "R20260301_09",
+        "predicted_rank": 6,
+        "actual_rank": 1,
+        "timestamp": "2026-01-08T21:11:19.547677"
+      },
+      {
+        "race_id": "R20260215_05",
+        "predicted_rank": 1,
+        "actual_rank": 4,
+        "timestamp": "2026-01-09T21:11:19.547680"
+      },
+      {
+        "race_id": "R20260308_07",
+        "predicted_rank": 1,
+        "actual_rank": 7,
+        "timestamp": "2026-01-10T21:11:19.547683"
+      },
+      {
+        "race_id": "R20260215_08",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-11T21:11:19.547685"
+      },
+      {
+        "race_id": "R20260221_03",
+        "predicted_rank": 11,
+        "actual_rank": 1,
+        "timestamp": "2026-01-12T21:11:19.547688"
+      },
+      {
+        "race_id": "R20260207_04",
+        "predicted_rank": 5,
+        "actual_rank": 2,
+        "timestamp": "2026-01-13T21:11:19.547691"
+      },
+      {
+        "race_id": "R20260322_04",
+        "predicted_rank": 2,
+        "actual_rank": 3,
+        "timestamp": "2026-01-14T21:11:19.547693"
+      },
+      {
+        "race_id": "R20260131_11",
+        "predicted_rank": 2,
+        "actual_rank": 1,
+        "timestamp": "2026-01-15T21:11:19.547696"
+      },
+      {
+        "race_id": "R20260221_09",
+        "predicted_rank": 12,
+        "actual_rank": 8,
+        "timestamp": "2026-01-16T21:11:19.547699"
+      },
+      {
+        "race_id": "R20260207_10",
+        "predicted_rank": 8,
+        "actual_rank": 3,
+        "timestamp": "2026-01-17T21:11:19.547702"
+      },
+      {
+        "race_id": "R20260214_09",
+        "predicted_rank": 6,
+        "actual_rank": 4,
+        "timestamp": "2026-01-18T21:11:19.547705"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547707"
+  },
+  {
+    "tipster_id": "TIP_00028",
+    "username": "배당 최적화자",
+    "verified": false,
+    "trust_index": {
+      "score": 75.5,
+      "components": {
+        "accuracy": 0.492,
+        "consistency": 0.928,
+        "volume": 218,
+        "transparency": 0.884
+      },
+      "brier_score": 0.217,
+      "roi": -12.6
+    },
+    "stats": {
+      "total_predictions": 228,
+      "wins": 70,
+      "places": 132,
+      "total_followers": 3509
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260308_05",
+        "predicted_rank": 2,
+        "actual_rank": 5,
+        "timestamp": "2025-12-30T21:11:19.547557"
+      },
+      {
+        "race_id": "R20260301_03",
+        "predicted_rank": 2,
+        "actual_rank": 10,
+        "timestamp": "2025-12-31T21:11:19.547560"
+      },
+      {
+        "race_id": "R20260131_02",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-01T21:11:19.547563"
+      },
+      {
+        "race_id": "R20260222_06",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-02T21:11:19.547565"
+      },
+      {
+        "race_id": "R20260315_08",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-03T21:11:19.547568"
+      },
+      {
+        "race_id": "R20260322_12",
+        "predicted_rank": 9,
+        "actual_rank": 2,
+        "timestamp": "2026-01-04T21:11:19.547570"
+      },
+      {
+        "race_id": "R20260314_05",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-05T21:11:19.547575"
+      },
+      {
+        "race_id": "R20260301_12",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-06T21:11:19.547578"
+      },
+      {
+        "race_id": "R20260301_07",
+        "predicted_rank": 1,
+        "actual_rank": 6,
+        "timestamp": "2026-01-07T21:11:19.547581"
+      },
+      {
+        "race_id": "R20260207_07",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-08T21:11:19.547583"
+      },
+      {
+        "race_id": "R20260215_09",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-09T21:11:19.547586"
+      },
+      {
+        "race_id": "R20260301_04",
+        "predicted_rank": 9,
+        "actual_rank": 12,
+        "timestamp": "2026-01-10T21:11:19.547588"
+      },
+      {
+        "race_id": "R20260215_06",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-11T21:11:19.547591"
+      },
+      {
+        "race_id": "R20260215_10",
+        "predicted_rank": 2,
+        "actual_rank": 12,
+        "timestamp": "2026-01-12T21:11:19.547594"
+      },
+      {
+        "race_id": "R20260301_08",
+        "predicted_rank": 5,
+        "actual_rank": 6,
+        "timestamp": "2026-01-13T21:11:19.547597"
+      },
+      {
+        "race_id": "R20260308_04",
+        "predicted_rank": 9,
+        "actual_rank": 4,
+        "timestamp": "2026-01-14T21:11:19.547600"
+      },
+      {
+        "race_id": "R20260214_10",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-15T21:11:19.547605"
+      },
+      {
+        "race_id": "R20260222_01",
+        "predicted_rank": 1,
+        "actual_rank": 4,
+        "timestamp": "2026-01-16T21:11:19.547608"
+      },
+      {
+        "race_id": "R20260315_11",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-17T21:11:19.547610"
+      },
+      {
+        "race_id": "R20260221_04",
+        "predicted_rank": 9,
+        "actual_rank": 10,
+        "timestamp": "2026-01-18T21:11:19.547614"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547617"
+  },
+  {
+    "tipster_id": "TIP_00018",
+    "username": "경주마 박사",
+    "verified": true,
+    "trust_index": {
+      "score": 75.3,
+      "components": {
+        "accuracy": 0.616,
+        "consistency": 0.691,
+        "volume": 342,
+        "transparency": 0.946
+      },
+      "brier_score": 0.375,
+      "roi": 11.93
+    },
+    "stats": {
+      "total_predictions": 53,
+      "wins": 15,
+      "places": 29,
+      "total_followers": 8661
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260301_12",
+        "predicted_rank": 10,
+        "actual_rank": 9,
+        "timestamp": "2025-12-30T21:11:19.546761"
+      },
+      {
+        "race_id": "R20260301_04",
+        "predicted_rank": 1,
+        "actual_rank": 6,
+        "timestamp": "2025-12-31T21:11:19.546764"
+      },
+      {
+        "race_id": "R20260214_10",
+        "predicted_rank": 4,
+        "actual_rank": 10,
+        "timestamp": "2026-01-01T21:11:19.546767"
+      },
+      {
+        "race_id": "R20260222_07",
+        "predicted_rank": 11,
+        "actual_rank": 12,
+        "timestamp": "2026-01-02T21:11:19.546770"
+      },
+      {
+        "race_id": "R20260228_11",
+        "predicted_rank": 8,
+        "actual_rank": 12,
+        "timestamp": "2026-01-03T21:11:19.546772"
+      },
+      {
+        "race_id": "R20260215_02",
+        "predicted_rank": 9,
+        "actual_rank": 2,
+        "timestamp": "2026-01-04T21:11:19.546775"
+      },
+      {
+        "race_id": "R20260221_09",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-05T21:11:19.546778"
+      },
+      {
+        "race_id": "R20260214_05",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-06T21:11:19.546781"
+      },
+      {
+        "race_id": "R20260308_07",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-07T21:11:19.546783"
+      },
+      {
+        "race_id": "R20260321_11",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-08T21:11:19.546786"
+      },
+      {
+        "race_id": "R20260321_08",
+        "predicted_rank": 7,
+        "actual_rank": 8,
+        "timestamp": "2026-01-09T21:11:19.546789"
+      },
+      {
+        "race_id": "R20260221_05",
+        "predicted_rank": 12,
+        "actual_rank": 1,
+        "timestamp": "2026-01-10T21:11:19.546791"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 1,
+        "actual_rank": 5,
+        "timestamp": "2026-01-11T21:11:19.546797"
+      },
+      {
+        "race_id": "R20260314_04",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-12T21:11:19.546800"
+      },
+      {
+        "race_id": "R20260214_03",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-13T21:11:19.546802"
+      },
+      {
+        "race_id": "R20260131_09",
+        "predicted_rank": 5,
+        "actual_rank": 6,
+        "timestamp": "2026-01-14T21:11:19.546805"
+      },
+      {
+        "race_id": "R20260322_07",
+        "predicted_rank": 8,
+        "actual_rank": 10,
+        "timestamp": "2026-01-15T21:11:19.546808"
+      },
+      {
+        "race_id": "R20260221_02",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-16T21:11:19.546810"
+      },
+      {
+        "race_id": "R20260228_05",
+        "predicted_rank": 8,
+        "actual_rank": 12,
+        "timestamp": "2026-01-17T21:11:19.546813"
+      },
+      {
+        "race_id": "R20260314_01",
+        "predicted_rank": 11,
+        "actual_rank": 12,
+        "timestamp": "2026-01-18T21:11:19.546816"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546818"
+  },
+  {
+    "tipster_id": "TIP_00044",
+    "username": "마권 분석기",
+    "verified": false,
+    "trust_index": {
+      "score": 75.3,
+      "components": {
+        "accuracy": 0.828,
+        "consistency": 0.561,
+        "volume": 142,
+        "transparency": 0.832
+      },
+      "brier_score": 0.113,
+      "roi": 17.6
+    },
+    "stats": {
+      "total_predictions": 344,
+      "wins": 161,
+      "places": 205,
+      "total_followers": 17446
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260215_01",
+        "predicted_rank": 3,
+        "actual_rank": 12,
+        "timestamp": "2025-12-30T21:11:19.549185"
+      },
+      {
+        "race_id": "R20260308_11",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2025-12-31T21:11:19.549188"
+      },
+      {
+        "race_id": "R20260215_11",
+        "predicted_rank": 8,
+        "actual_rank": 9,
+        "timestamp": "2026-01-01T21:11:19.549191"
+      },
+      {
+        "race_id": "R20260214_09",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-02T21:11:19.549193"
+      },
+      {
+        "race_id": "R20260131_07",
+        "predicted_rank": 2,
+        "actual_rank": 12,
+        "timestamp": "2026-01-03T21:11:19.549196"
+      },
+      {
+        "race_id": "R20260221_08",
+        "predicted_rank": 8,
+        "actual_rank": 7,
+        "timestamp": "2026-01-04T21:11:19.549199"
+      },
+      {
+        "race_id": "R20260301_04",
+        "predicted_rank": 7,
+        "actual_rank": 8,
+        "timestamp": "2026-01-05T21:11:19.549201"
+      },
+      {
+        "race_id": "R20260315_01",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-06T21:11:19.549204"
+      },
+      {
+        "race_id": "R20260321_07",
+        "predicted_rank": 5,
+        "actual_rank": 6,
+        "timestamp": "2026-01-07T21:11:19.549207"
+      },
+      {
+        "race_id": "R20260301_08",
+        "predicted_rank": 11,
+        "actual_rank": 1,
+        "timestamp": "2026-01-08T21:11:19.549210"
+      },
+      {
+        "race_id": "R20260321_03",
+        "predicted_rank": 8,
+        "actual_rank": 2,
+        "timestamp": "2026-01-09T21:11:19.549212"
+      },
+      {
+        "race_id": "R20260315_05",
+        "predicted_rank": 5,
+        "actual_rank": 11,
+        "timestamp": "2026-01-10T21:11:19.549215"
+      },
+      {
+        "race_id": "R20260322_10",
+        "predicted_rank": 11,
+        "actual_rank": 4,
+        "timestamp": "2026-01-11T21:11:19.549218"
+      },
+      {
+        "race_id": "R20260314_08",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-12T21:11:19.549220"
+      },
+      {
+        "race_id": "R20260307_02",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-13T21:11:19.549222"
+      },
+      {
+        "race_id": "R20260221_10",
+        "predicted_rank": 1,
+        "actual_rank": 4,
+        "timestamp": "2026-01-14T21:11:19.549225"
+      },
+      {
+        "race_id": "R20260228_12",
+        "predicted_rank": 5,
+        "actual_rank": 12,
+        "timestamp": "2026-01-15T21:11:19.549228"
+      },
+      {
+        "race_id": "R20260208_07",
+        "predicted_rank": 11,
+        "actual_rank": 1,
+        "timestamp": "2026-01-16T21:11:19.549230"
+      },
+      {
+        "race_id": "R20260131_02",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-17T21:11:19.549233"
+      },
+      {
+        "race_id": "R20260221_01",
+        "predicted_rank": 1,
+        "actual_rank": 11,
+        "timestamp": "2026-01-18T21:11:19.549235"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.549238"
+  },
+  {
+    "tipster_id": "TIP_00046",
+    "username": "경마 인플루언서",
+    "verified": false,
+    "trust_index": {
+      "score": 75.3,
+      "components": {
+        "accuracy": 0.645,
+        "consistency": 0.577,
+        "volume": 307,
+        "transparency": 0.857
+      },
+      "brier_score": 0.186,
+      "roi": 5.36
+    },
+    "stats": {
+      "total_predictions": 450,
+      "wins": 167,
+      "places": 146,
+      "total_followers": 13587
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260228_07",
+        "predicted_rank": 12,
+        "actual_rank": 3,
+        "timestamp": "2025-12-30T21:11:19.549338"
+      },
+      {
+        "race_id": "R20260308_03",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2025-12-31T21:11:19.549341"
+      },
+      {
+        "race_id": "R20260308_10",
+        "predicted_rank": 5,
+        "actual_rank": 10,
+        "timestamp": "2026-01-01T21:11:19.549344"
+      },
+      {
+        "race_id": "R20260222_03",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-02T21:11:19.549346"
+      },
+      {
+        "race_id": "R20260315_06",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-03T21:11:19.549349"
+      },
+      {
+        "race_id": "R20260215_11",
+        "predicted_rank": 8,
+        "actual_rank": 11,
+        "timestamp": "2026-01-04T21:11:19.549351"
+      },
+      {
+        "race_id": "R20260214_09",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-05T21:11:19.549354"
+      },
+      {
+        "race_id": "R20260208_02",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-06T21:11:19.549356"
+      },
+      {
+        "race_id": "R20260221_01",
+        "predicted_rank": 9,
+        "actual_rank": 3,
+        "timestamp": "2026-01-07T21:11:19.549359"
+      },
+      {
+        "race_id": "R20260131_11",
+        "predicted_rank": 9,
+        "actual_rank": 3,
+        "timestamp": "2026-01-08T21:11:19.549362"
+      },
+      {
+        "race_id": "R20260221_11",
+        "predicted_rank": 3,
+        "actual_rank": 7,
+        "timestamp": "2026-01-09T21:11:19.549365"
+      },
+      {
+        "race_id": "R20260208_09",
+        "predicted_rank": 12,
+        "actual_rank": 11,
+        "timestamp": "2026-01-10T21:11:19.549367"
+      },
+      {
+        "race_id": "R20260315_04",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-11T21:11:19.549370"
+      },
+      {
+        "race_id": "R20260221_12",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-12T21:11:19.549372"
+      },
+      {
+        "race_id": "R20260215_07",
+        "predicted_rank": 7,
+        "actual_rank": 1,
+        "timestamp": "2026-01-13T21:11:19.549375"
+      },
+      {
+        "race_id": "R20260321_10",
+        "predicted_rank": 10,
+        "actual_rank": 8,
+        "timestamp": "2026-01-14T21:11:19.549380"
+      },
+      {
+        "race_id": "R20260228_12",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-15T21:11:19.549382"
+      },
+      {
+        "race_id": "R20260208_06",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-16T21:11:19.549385"
+      },
+      {
+        "race_id": "R20260214_04",
+        "predicted_rank": 7,
+        "actual_rank": 1,
+        "timestamp": "2026-01-17T21:11:19.549388"
+      },
+      {
+        "race_id": "R20260221_06",
+        "predicted_rank": 11,
+        "actual_rank": 1,
+        "timestamp": "2026-01-18T21:11:19.549391"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.549393"
+  },
+  {
+    "tipster_id": "TIP_00002",
+    "username": "경마 연구원",
+    "verified": true,
+    "trust_index": {
+      "score": 74.7,
+      "components": {
+        "accuracy": 0.893,
+        "consistency": 0.621,
+        "volume": 82,
+        "transparency": 0.939
+      },
+      "brier_score": 0.26,
+      "roi": 8.14
+    },
+    "stats": {
+      "total_predictions": 83,
+      "wins": 35,
+      "places": 53,
+      "total_followers": 9017
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260215_10",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2025-12-30T21:11:19.545240"
+      },
+      {
+        "race_id": "R20260307_02",
+        "predicted_rank": 11,
+        "actual_rank": 4,
+        "timestamp": "2025-12-31T21:11:19.545243"
+      },
+      {
+        "race_id": "R20260322_08",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-01T21:11:19.545246"
+      },
+      {
+        "race_id": "R20260207_10",
+        "predicted_rank": 1,
+        "actual_rank": 3,
+        "timestamp": "2026-01-02T21:11:19.545258"
+      },
+      {
+        "race_id": "R20260215_06",
+        "predicted_rank": 3,
+        "actual_rank": 7,
+        "timestamp": "2026-01-03T21:11:19.545261"
+      },
+      {
+        "race_id": "R20260308_12",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-04T21:11:19.545264"
+      },
+      {
+        "race_id": "R20260214_01",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-05T21:11:19.545266"
+      },
+      {
+        "race_id": "R20260321_05",
+        "predicted_rank": 6,
+        "actual_rank": 10,
+        "timestamp": "2026-01-06T21:11:19.545269"
+      },
+      {
+        "race_id": "R20260308_03",
+        "predicted_rank": 1,
+        "actual_rank": 11,
+        "timestamp": "2026-01-07T21:11:19.545272"
+      },
+      {
+        "race_id": "R20260228_11",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-08T21:11:19.545274"
+      },
+      {
+        "race_id": "R20260321_09",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-09T21:11:19.545277"
+      },
+      {
+        "race_id": "R20260215_09",
+        "predicted_rank": 12,
+        "actual_rank": 6,
+        "timestamp": "2026-01-10T21:11:19.545282"
+      },
+      {
+        "race_id": "R20260301_12",
+        "predicted_rank": 12,
+        "actual_rank": 4,
+        "timestamp": "2026-01-11T21:11:19.545285"
+      },
+      {
+        "race_id": "R20260315_11",
+        "predicted_rank": 10,
+        "actual_rank": 4,
+        "timestamp": "2026-01-12T21:11:19.545288"
+      },
+      {
+        "race_id": "R20260321_08",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-13T21:11:19.545291"
+      },
+      {
+        "race_id": "R20260221_02",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-14T21:11:19.545293"
+      },
+      {
+        "race_id": "R20260131_08",
+        "predicted_rank": 6,
+        "actual_rank": 10,
+        "timestamp": "2026-01-15T21:11:19.545296"
+      },
+      {
+        "race_id": "R20260307_12",
+        "predicted_rank": 10,
+        "actual_rank": 8,
+        "timestamp": "2026-01-16T21:11:19.545299"
+      },
+      {
+        "race_id": "R20260308_07",
+        "predicted_rank": 8,
+        "actual_rank": 9,
+        "timestamp": "2026-01-17T21:11:19.545302"
+      },
+      {
+        "race_id": "R20260221_06",
+        "predicted_rank": 6,
+        "actual_rank": 10,
+        "timestamp": "2026-01-18T21:11:19.545305"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.545307"
+  },
+  {
+    "tipster_id": "TIP_00014",
+    "username": "마권 마스터",
+    "verified": true,
+    "trust_index": {
+      "score": 73.7,
+      "components": {
+        "accuracy": 0.447,
+        "consistency": 0.637,
+        "volume": 444,
+        "transparency": 0.892
+      },
+      "brier_score": 0.368,
+      "roi": -11.77
+    },
+    "stats": {
+      "total_predictions": 369,
+      "wins": 104,
+      "places": 156,
+      "total_followers": 31239
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260222_05",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2025-12-30T21:11:19.546407"
+      },
+      {
+        "race_id": "R20260307_12",
+        "predicted_rank": 11,
+        "actual_rank": 2,
+        "timestamp": "2025-12-31T21:11:19.546410"
+      },
+      {
+        "race_id": "R20260314_02",
+        "predicted_rank": 5,
+        "actual_rank": 11,
+        "timestamp": "2026-01-01T21:11:19.546413"
+      },
+      {
+        "race_id": "R20260315_07",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-02T21:11:19.546415"
+      },
+      {
+        "race_id": "R20260314_07",
+        "predicted_rank": 9,
+        "actual_rank": 8,
+        "timestamp": "2026-01-03T21:11:19.546418"
+      },
+      {
+        "race_id": "R20260215_11",
+        "predicted_rank": 11,
+        "actual_rank": 12,
+        "timestamp": "2026-01-04T21:11:19.546421"
+      },
+      {
+        "race_id": "R20260131_04",
+        "predicted_rank": 1,
+        "actual_rank": 10,
+        "timestamp": "2026-01-05T21:11:19.546424"
+      },
+      {
+        "race_id": "R20260215_06",
+        "predicted_rank": 6,
+        "actual_rank": 12,
+        "timestamp": "2026-01-06T21:11:19.546427"
+      },
+      {
+        "race_id": "R20260322_02",
+        "predicted_rank": 12,
+        "actual_rank": 4,
+        "timestamp": "2026-01-07T21:11:19.546430"
+      },
+      {
+        "race_id": "R20260308_07",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-08T21:11:19.546432"
+      },
+      {
+        "race_id": "R20260314_05",
+        "predicted_rank": 12,
+        "actual_rank": 10,
+        "timestamp": "2026-01-09T21:11:19.546435"
+      },
+      {
+        "race_id": "R20260301_05",
+        "predicted_rank": 8,
+        "actual_rank": 9,
+        "timestamp": "2026-01-10T21:11:19.546438"
+      },
+      {
+        "race_id": "R20260215_09",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-11T21:11:19.546440"
+      },
+      {
+        "race_id": "R20260308_12",
+        "predicted_rank": 10,
+        "actual_rank": 8,
+        "timestamp": "2026-01-12T21:11:19.546443"
+      },
+      {
+        "race_id": "R20260207_07",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-13T21:11:19.546445"
+      },
+      {
+        "race_id": "R20260208_07",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-14T21:11:19.546448"
+      },
+      {
+        "race_id": "R20260208_01",
+        "predicted_rank": 1,
+        "actual_rank": 9,
+        "timestamp": "2026-01-15T21:11:19.546452"
+      },
+      {
+        "race_id": "R20260321_12",
+        "predicted_rank": 9,
+        "actual_rank": 6,
+        "timestamp": "2026-01-16T21:11:19.546454"
+      },
+      {
+        "race_id": "R20260228_02",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-17T21:11:19.546457"
+      },
+      {
+        "race_id": "R20260315_02",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-18T21:11:19.546459"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546461"
+  },
+  {
+    "tipster_id": "TIP_00022",
+    "username": "경주마 전문가",
+    "verified": false,
+    "trust_index": {
+      "score": 73.5,
+      "components": {
+        "accuracy": 0.9,
+        "consistency": 0.633,
+        "volume": 89,
+        "transparency": 0.9
+      },
+      "brier_score": 0.358,
+      "roi": 0.27
+    },
+    "stats": {
+      "total_predictions": 296,
+      "wins": 112,
+      "places": 105,
+      "total_followers": 18004
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260315_08",
+        "predicted_rank": 1,
+        "actual_rank": 4,
+        "timestamp": "2025-12-30T21:11:19.547090"
+      },
+      {
+        "race_id": "R20260221_10",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2025-12-31T21:11:19.547093"
+      },
+      {
+        "race_id": "R20260308_09",
+        "predicted_rank": 7,
+        "actual_rank": 8,
+        "timestamp": "2026-01-01T21:11:19.547096"
+      },
+      {
+        "race_id": "R20260214_03",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-02T21:11:19.547098"
+      },
+      {
+        "race_id": "R20260214_08",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-03T21:11:19.547101"
+      },
+      {
+        "race_id": "R20260131_10",
+        "predicted_rank": 6,
+        "actual_rank": 9,
+        "timestamp": "2026-01-04T21:11:19.547103"
+      },
+      {
+        "race_id": "R20260131_07",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-05T21:11:19.547106"
+      },
+      {
+        "race_id": "R20260221_08",
+        "predicted_rank": 8,
+        "actual_rank": 7,
+        "timestamp": "2026-01-06T21:11:19.547109"
+      },
+      {
+        "race_id": "R20260314_09",
+        "predicted_rank": 2,
+        "actual_rank": 11,
+        "timestamp": "2026-01-07T21:11:19.547112"
+      },
+      {
+        "race_id": "R20260308_05",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-08T21:11:19.547114"
+      },
+      {
+        "race_id": "R20260322_10",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-09T21:11:19.547117"
+      },
+      {
+        "race_id": "R20260131_04",
+        "predicted_rank": 9,
+        "actual_rank": 11,
+        "timestamp": "2026-01-10T21:11:19.547120"
+      },
+      {
+        "race_id": "R20260222_03",
+        "predicted_rank": 5,
+        "actual_rank": 7,
+        "timestamp": "2026-01-11T21:11:19.547122"
+      },
+      {
+        "race_id": "R20260207_12",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-12T21:11:19.547125"
+      },
+      {
+        "race_id": "R20260214_06",
+        "predicted_rank": 7,
+        "actual_rank": 3,
+        "timestamp": "2026-01-13T21:11:19.547128"
+      },
+      {
+        "race_id": "R20260315_10",
+        "predicted_rank": 1,
+        "actual_rank": 12,
+        "timestamp": "2026-01-14T21:11:19.547130"
+      },
+      {
+        "race_id": "R20260222_09",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-15T21:11:19.547133"
+      },
+      {
+        "race_id": "R20260322_02",
+        "predicted_rank": 11,
+        "actual_rank": 4,
+        "timestamp": "2026-01-16T21:11:19.547136"
+      },
+      {
+        "race_id": "R20260308_01",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-17T21:11:19.547138"
+      },
+      {
+        "race_id": "R20260214_11",
+        "predicted_rank": 10,
+        "actual_rank": 11,
+        "timestamp": "2026-01-18T21:11:19.547144"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547146"
+  },
+  {
+    "tipster_id": "TIP_00041",
+    "username": "경마 리포터",
+    "verified": false,
+    "trust_index": {
+      "score": 73.5,
+      "components": {
+        "accuracy": 0.773,
+        "consistency": 0.625,
+        "volume": 138,
+        "transparency": 0.902
+      },
+      "brier_score": 0.28,
+      "roi": 11.72
+    },
+    "stats": {
+      "total_predictions": 292,
+      "wins": 155,
+      "places": 148,
+      "total_followers": 20648
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260301_06",
+        "predicted_rank": 5,
+        "actual_rank": 2,
+        "timestamp": "2025-12-30T21:11:19.548955"
+      },
+      {
+        "race_id": "R20260215_08",
+        "predicted_rank": 7,
+        "actual_rank": 9,
+        "timestamp": "2025-12-31T21:11:19.548958"
+      },
+      {
+        "race_id": "R20260131_12",
+        "predicted_rank": 5,
+        "actual_rank": 2,
+        "timestamp": "2026-01-01T21:11:19.548961"
+      },
+      {
+        "race_id": "R20260315_10",
+        "predicted_rank": 1,
+        "actual_rank": 6,
+        "timestamp": "2026-01-02T21:11:19.548964"
+      },
+      {
+        "race_id": "R20260321_05",
+        "predicted_rank": 5,
+        "actual_rank": 9,
+        "timestamp": "2026-01-03T21:11:19.548970"
+      },
+      {
+        "race_id": "R20260214_12",
+        "predicted_rank": 8,
+        "actual_rank": 1,
+        "timestamp": "2026-01-04T21:11:19.548973"
+      },
+      {
+        "race_id": "R20260207_03",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-05T21:11:19.548975"
+      },
+      {
+        "race_id": "R20260207_08",
+        "predicted_rank": 5,
+        "actual_rank": 10,
+        "timestamp": "2026-01-06T21:11:19.548978"
+      },
+      {
+        "race_id": "R20260307_06",
+        "predicted_rank": 7,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.548981"
+      },
+      {
+        "race_id": "R20260322_12",
+        "predicted_rank": 12,
+        "actual_rank": 6,
+        "timestamp": "2026-01-08T21:11:19.548984"
+      },
+      {
+        "race_id": "R20260215_09",
+        "predicted_rank": 7,
+        "actual_rank": 10,
+        "timestamp": "2026-01-09T21:11:19.548987"
+      },
+      {
+        "race_id": "R20260208_05",
+        "predicted_rank": 3,
+        "actual_rank": 6,
+        "timestamp": "2026-01-10T21:11:19.548989"
+      },
+      {
+        "race_id": "R20260301_09",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-11T21:11:19.548992"
+      },
+      {
+        "race_id": "R20260221_01",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-12T21:11:19.548994"
+      },
+      {
+        "race_id": "R20260307_11",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-13T21:11:19.548997"
+      },
+      {
+        "race_id": "R20260208_04",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-14T21:11:19.548999"
+      },
+      {
+        "race_id": "R20260314_08",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-15T21:11:19.549002"
+      },
+      {
+        "race_id": "R20260207_09",
+        "predicted_rank": 5,
+        "actual_rank": 9,
+        "timestamp": "2026-01-16T21:11:19.549004"
+      },
+      {
+        "race_id": "R20260222_02",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-17T21:11:19.549010"
+      },
+      {
+        "race_id": "R20260131_11",
+        "predicted_rank": 1,
+        "actual_rank": 7,
+        "timestamp": "2026-01-18T21:11:19.549012"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.549014"
+  },
+  {
+    "tipster_id": "TIP_00042",
+    "username": "마권 왕",
+    "verified": false,
+    "trust_index": {
+      "score": 73.5,
+      "components": {
+        "accuracy": 0.51,
+        "consistency": 0.583,
+        "volume": 328,
+        "transparency": 0.711
+      },
+      "brier_score": 0.108,
+      "roi": 24.52
+    },
+    "stats": {
+      "total_predictions": 236,
+      "wins": 71,
+      "places": 127,
+      "total_followers": 28248
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260222_09",
+        "predicted_rank": 10,
+        "actual_rank": 3,
+        "timestamp": "2025-12-30T21:11:19.549034"
+      },
+      {
+        "race_id": "R20260301_11",
+        "predicted_rank": 1,
+        "actual_rank": 12,
+        "timestamp": "2025-12-31T21:11:19.549037"
+      },
+      {
+        "race_id": "R20260314_01",
+        "predicted_rank": 5,
+        "actual_rank": 4,
+        "timestamp": "2026-01-01T21:11:19.549040"
+      },
+      {
+        "race_id": "R20260314_12",
+        "predicted_rank": 12,
+        "actual_rank": 4,
+        "timestamp": "2026-01-02T21:11:19.549043"
+      },
+      {
+        "race_id": "R20260207_11",
+        "predicted_rank": 8,
+        "actual_rank": 3,
+        "timestamp": "2026-01-03T21:11:19.549046"
+      },
+      {
+        "race_id": "R20260222_06",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-04T21:11:19.549049"
+      },
+      {
+        "race_id": "R20260214_06",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-05T21:11:19.549051"
+      },
+      {
+        "race_id": "R20260301_08",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-06T21:11:19.549054"
+      },
+      {
+        "race_id": "R20260314_06",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-07T21:11:19.549058"
+      },
+      {
+        "race_id": "R20260322_01",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-08T21:11:19.549061"
+      },
+      {
+        "race_id": "R20260314_08",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-09T21:11:19.549063"
+      },
+      {
+        "race_id": "R20260222_05",
+        "predicted_rank": 12,
+        "actual_rank": 5,
+        "timestamp": "2026-01-10T21:11:19.549066"
+      },
+      {
+        "race_id": "R20260321_01",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-11T21:11:19.549071"
+      },
+      {
+        "race_id": "R20260131_12",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-12T21:11:19.549073"
+      },
+      {
+        "race_id": "R20260315_11",
+        "predicted_rank": 7,
+        "actual_rank": 5,
+        "timestamp": "2026-01-13T21:11:19.549076"
+      },
+      {
+        "race_id": "R20260321_03",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-14T21:11:19.549078"
+      },
+      {
+        "race_id": "R20260307_08",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-15T21:11:19.549080"
+      },
+      {
+        "race_id": "R20260322_09",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-16T21:11:19.549083"
+      },
+      {
+        "race_id": "R20260214_01",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-17T21:11:19.549086"
+      },
+      {
+        "race_id": "R20260228_11",
+        "predicted_rank": 7,
+        "actual_rank": 2,
+        "timestamp": "2026-01-18T21:11:19.549090"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.549093"
+  },
+  {
+    "tipster_id": "TIP_00009",
+    "username": "경마 전략가",
+    "verified": false,
+    "trust_index": {
+      "score": 73.0,
+      "components": {
+        "accuracy": 0.415,
+        "consistency": 0.812,
+        "volume": 270,
+        "transparency": 0.97
+      },
+      "brier_score": 0.321,
+      "roi": -7.83
+    },
+    "stats": {
+      "total_predictions": 463,
+      "wins": 190,
+      "places": 170,
+      "total_followers": 9106
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260214_05",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2025-12-30T21:11:19.545983"
+      },
+      {
+        "race_id": "R20260221_11",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2025-12-31T21:11:19.545987"
+      },
+      {
+        "race_id": "R20260322_12",
+        "predicted_rank": 12,
+        "actual_rank": 7,
+        "timestamp": "2026-01-01T21:11:19.545990"
+      },
+      {
+        "race_id": "R20260321_12",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-02T21:11:19.545992"
+      },
+      {
+        "race_id": "R20260208_11",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-03T21:11:19.545995"
+      },
+      {
+        "race_id": "R20260221_04",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-04T21:11:19.545997"
+      },
+      {
+        "race_id": "R20260228_01",
+        "predicted_rank": 5,
+        "actual_rank": 12,
+        "timestamp": "2026-01-05T21:11:19.546000"
+      },
+      {
+        "race_id": "R20260131_05",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-06T21:11:19.546003"
+      },
+      {
+        "race_id": "R20260314_09",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-07T21:11:19.546005"
+      },
+      {
+        "race_id": "R20260322_03",
+        "predicted_rank": 1,
+        "actual_rank": 8,
+        "timestamp": "2026-01-08T21:11:19.546010"
+      },
+      {
+        "race_id": "R20260208_05",
+        "predicted_rank": 9,
+        "actual_rank": 5,
+        "timestamp": "2026-01-09T21:11:19.546013"
+      },
+      {
+        "race_id": "R20260314_06",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-10T21:11:19.546016"
+      },
+      {
+        "race_id": "R20260208_01",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-11T21:11:19.546018"
+      },
+      {
+        "race_id": "R20260314_04",
+        "predicted_rank": 3,
+        "actual_rank": 6,
+        "timestamp": "2026-01-12T21:11:19.546021"
+      },
+      {
+        "race_id": "R20260222_04",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-13T21:11:19.546023"
+      },
+      {
+        "race_id": "R20260321_11",
+        "predicted_rank": 10,
+        "actual_rank": 8,
+        "timestamp": "2026-01-14T21:11:19.546026"
+      },
+      {
+        "race_id": "R20260207_10",
+        "predicted_rank": 8,
+        "actual_rank": 3,
+        "timestamp": "2026-01-15T21:11:19.546029"
+      },
+      {
+        "race_id": "R20260221_01",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-16T21:11:19.546031"
+      },
+      {
+        "race_id": "R20260131_09",
+        "predicted_rank": 6,
+        "actual_rank": 7,
+        "timestamp": "2026-01-17T21:11:19.546034"
+      },
+      {
+        "race_id": "R20260131_07",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-18T21:11:19.546037"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546039"
+  },
+  {
+    "tipster_id": "TIP_00034",
+    "username": "마권투자자",
+    "verified": false,
+    "trust_index": {
+      "score": 73.0,
+      "components": {
+        "accuracy": 0.565,
+        "consistency": 0.536,
+        "volume": 318,
+        "transparency": 0.87
+      },
+      "brier_score": 0.244,
+      "roi": -10.56
+    },
+    "stats": {
+      "total_predictions": 219,
+      "wins": 92,
+      "places": 124,
+      "total_followers": 4964
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260314_10",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2025-12-30T21:11:19.548096"
+      },
+      {
+        "race_id": "R20260228_06",
+        "predicted_rank": 3,
+        "actual_rank": 11,
+        "timestamp": "2025-12-31T21:11:19.548099"
+      },
+      {
+        "race_id": "R20260215_04",
+        "predicted_rank": 3,
+        "actual_rank": 7,
+        "timestamp": "2026-01-01T21:11:19.548102"
+      },
+      {
+        "race_id": "R20260314_12",
+        "predicted_rank": 3,
+        "actual_rank": 2,
+        "timestamp": "2026-01-02T21:11:19.548105"
+      },
+      {
+        "race_id": "R20260322_06",
+        "predicted_rank": 1,
+        "actual_rank": 4,
+        "timestamp": "2026-01-03T21:11:19.548108"
+      },
+      {
+        "race_id": "R20260307_06",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-04T21:11:19.548110"
+      },
+      {
+        "race_id": "R20260307_09",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-05T21:11:19.548115"
+      },
+      {
+        "race_id": "R20260214_05",
+        "predicted_rank": 12,
+        "actual_rank": 4,
+        "timestamp": "2026-01-06T21:11:19.548118"
+      },
+      {
+        "race_id": "R20260301_01",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-07T21:11:19.548120"
+      },
+      {
+        "race_id": "R20260215_11",
+        "predicted_rank": 1,
+        "actual_rank": 8,
+        "timestamp": "2026-01-08T21:11:19.548123"
+      },
+      {
+        "race_id": "R20260321_03",
+        "predicted_rank": 10,
+        "actual_rank": 4,
+        "timestamp": "2026-01-09T21:11:19.548126"
+      },
+      {
+        "race_id": "R20260221_03",
+        "predicted_rank": 7,
+        "actual_rank": 6,
+        "timestamp": "2026-01-10T21:11:19.548129"
+      },
+      {
+        "race_id": "R20260315_03",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-11T21:11:19.548131"
+      },
+      {
+        "race_id": "R20260221_02",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-12T21:11:19.548133"
+      },
+      {
+        "race_id": "R20260307_02",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-13T21:11:19.548136"
+      },
+      {
+        "race_id": "R20260308_01",
+        "predicted_rank": 11,
+        "actual_rank": 8,
+        "timestamp": "2026-01-14T21:11:19.548138"
+      },
+      {
+        "race_id": "R20260322_12",
+        "predicted_rank": 3,
+        "actual_rank": 4,
+        "timestamp": "2026-01-15T21:11:19.548141"
+      },
+      {
+        "race_id": "R20260307_07",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-16T21:11:19.548143"
+      },
+      {
+        "race_id": "R20260315_08",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-17T21:11:19.548146"
+      },
+      {
+        "race_id": "R20260314_11",
+        "predicted_rank": 7,
+        "actual_rank": 4,
+        "timestamp": "2026-01-18T21:11:19.548148"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.548150"
+  },
+  {
+    "tipster_id": "TIP_00006",
+    "username": "마권 프로",
+    "verified": false,
+    "trust_index": {
+      "score": 72.4,
+      "components": {
+        "accuracy": 0.569,
+        "consistency": 0.908,
+        "volume": 77,
+        "transparency": 0.907
+      },
+      "brier_score": 0.304,
+      "roi": 23.25
+    },
+    "stats": {
+      "total_predictions": 126,
+      "wins": 55,
+      "places": 58,
+      "total_followers": 11900
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260215_05",
+        "predicted_rank": 4,
+        "actual_rank": 7,
+        "timestamp": "2025-12-30T21:11:19.545584"
+      },
+      {
+        "race_id": "R20260214_11",
+        "predicted_rank": 9,
+        "actual_rank": 4,
+        "timestamp": "2025-12-31T21:11:19.545587"
+      },
+      {
+        "race_id": "R20260207_04",
+        "predicted_rank": 8,
+        "actual_rank": 1,
+        "timestamp": "2026-01-01T21:11:19.545590"
+      },
+      {
+        "race_id": "R20260131_04",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-02T21:11:19.545593"
+      },
+      {
+        "race_id": "R20260321_04",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-03T21:11:19.545595"
+      },
+      {
+        "race_id": "R20260314_09",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-04T21:11:19.545598"
+      },
+      {
+        "race_id": "R20260208_11",
+        "predicted_rank": 1,
+        "actual_rank": 12,
+        "timestamp": "2026-01-05T21:11:19.545600"
+      },
+      {
+        "race_id": "R20260314_10",
+        "predicted_rank": 2,
+        "actual_rank": 7,
+        "timestamp": "2026-01-06T21:11:19.545603"
+      },
+      {
+        "race_id": "R20260228_04",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-07T21:11:19.545606"
+      },
+      {
+        "race_id": "R20260221_10",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-08T21:11:19.545611"
+      },
+      {
+        "race_id": "R20260221_12",
+        "predicted_rank": 8,
+        "actual_rank": 11,
+        "timestamp": "2026-01-09T21:11:19.545614"
+      },
+      {
+        "race_id": "R20260228_11",
+        "predicted_rank": 7,
+        "actual_rank": 5,
+        "timestamp": "2026-01-10T21:11:19.545617"
+      },
+      {
+        "race_id": "R20260208_05",
+        "predicted_rank": 7,
+        "actual_rank": 3,
+        "timestamp": "2026-01-11T21:11:19.545619"
+      },
+      {
+        "race_id": "R20260301_08",
+        "predicted_rank": 2,
+        "actual_rank": 1,
+        "timestamp": "2026-01-12T21:11:19.545622"
+      },
+      {
+        "race_id": "R20260307_04",
+        "predicted_rank": 7,
+        "actual_rank": 3,
+        "timestamp": "2026-01-13T21:11:19.545627"
+      },
+      {
+        "race_id": "R20260308_06",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-14T21:11:19.545630"
+      },
+      {
+        "race_id": "R20260321_12",
+        "predicted_rank": 7,
+        "actual_rank": 9,
+        "timestamp": "2026-01-15T21:11:19.545633"
+      },
+      {
+        "race_id": "R20260221_02",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-16T21:11:19.545635"
+      },
+      {
+        "race_id": "R20260314_08",
+        "predicted_rank": 11,
+        "actual_rank": 5,
+        "timestamp": "2026-01-17T21:11:19.545638"
+      },
+      {
+        "race_id": "R20260322_10",
+        "predicted_rank": 3,
+        "actual_rank": 11,
+        "timestamp": "2026-01-18T21:11:19.545641"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.545643"
+  },
+  {
+    "tipster_id": "TIP_00016",
+    "username": "배당분석가",
+    "verified": false,
+    "trust_index": {
+      "score": 72.2,
+      "components": {
+        "accuracy": 0.781,
+        "consistency": 0.605,
+        "volume": 57,
+        "transparency": 0.909
+      },
+      "brier_score": 0.236,
+      "roi": 17.33
+    },
+    "stats": {
+      "total_predictions": 287,
+      "wins": 153,
+      "places": 155,
+      "total_followers": 2944
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260208_07",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2025-12-30T21:11:19.546604"
+      },
+      {
+        "race_id": "R20260215_09",
+        "predicted_rank": 3,
+        "actual_rank": 12,
+        "timestamp": "2025-12-31T21:11:19.546607"
+      },
+      {
+        "race_id": "R20260307_07",
+        "predicted_rank": 4,
+        "actual_rank": 10,
+        "timestamp": "2026-01-01T21:11:19.546610"
+      },
+      {
+        "race_id": "R20260214_06",
+        "predicted_rank": 1,
+        "actual_rank": 12,
+        "timestamp": "2026-01-02T21:11:19.546616"
+      },
+      {
+        "race_id": "R20260214_05",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-03T21:11:19.546619"
+      },
+      {
+        "race_id": "R20260307_11",
+        "predicted_rank": 8,
+        "actual_rank": 10,
+        "timestamp": "2026-01-04T21:11:19.546622"
+      },
+      {
+        "race_id": "R20260314_09",
+        "predicted_rank": 11,
+        "actual_rank": 2,
+        "timestamp": "2026-01-05T21:11:19.546628"
+      },
+      {
+        "race_id": "R20260315_11",
+        "predicted_rank": 9,
+        "actual_rank": 11,
+        "timestamp": "2026-01-06T21:11:19.546630"
+      },
+      {
+        "race_id": "R20260314_08",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-07T21:11:19.546633"
+      },
+      {
+        "race_id": "R20260301_03",
+        "predicted_rank": 6,
+        "actual_rank": 11,
+        "timestamp": "2026-01-08T21:11:19.546636"
+      },
+      {
+        "race_id": "R20260322_12",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-09T21:11:19.546638"
+      },
+      {
+        "race_id": "R20260131_12",
+        "predicted_rank": 2,
+        "actual_rank": 8,
+        "timestamp": "2026-01-10T21:11:19.546641"
+      },
+      {
+        "race_id": "R20260207_02",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-11T21:11:19.546643"
+      },
+      {
+        "race_id": "R20260214_09",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-12T21:11:19.546646"
+      },
+      {
+        "race_id": "R20260301_12",
+        "predicted_rank": 11,
+        "actual_rank": 1,
+        "timestamp": "2026-01-13T21:11:19.546648"
+      },
+      {
+        "race_id": "R20260221_06",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-14T21:11:19.546651"
+      },
+      {
+        "race_id": "R20260222_07",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-15T21:11:19.546653"
+      },
+      {
+        "race_id": "R20260221_04",
+        "predicted_rank": 7,
+        "actual_rank": 4,
+        "timestamp": "2026-01-16T21:11:19.546656"
+      },
+      {
+        "race_id": "R20260228_06",
+        "predicted_rank": 12,
+        "actual_rank": 10,
+        "timestamp": "2026-01-17T21:11:19.546659"
+      },
+      {
+        "race_id": "R20260228_08",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-18T21:11:19.546661"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546663"
+  },
+  {
+    "tipster_id": "TIP_00010",
+    "username": "경주마 분석가",
+    "verified": false,
+    "trust_index": {
+      "score": 71.9,
+      "components": {
+        "accuracy": 0.403,
+        "consistency": 0.776,
+        "volume": 233,
+        "transparency": 0.941
+      },
+      "brier_score": 0.28,
+      "roi": 3.24
+    },
+    "stats": {
+      "total_predictions": 427,
+      "wins": 147,
+      "places": 160,
+      "total_followers": 15403
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260207_06",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2025-12-30T21:11:19.546062"
+      },
+      {
+        "race_id": "R20260308_09",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2025-12-31T21:11:19.546065"
+      },
+      {
+        "race_id": "R20260131_05",
+        "predicted_rank": 9,
+        "actual_rank": 11,
+        "timestamp": "2026-01-01T21:11:19.546068"
+      },
+      {
+        "race_id": "R20260308_07",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-02T21:11:19.546070"
+      },
+      {
+        "race_id": "R20260214_04",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-03T21:11:19.546073"
+      },
+      {
+        "race_id": "R20260214_06",
+        "predicted_rank": 10,
+        "actual_rank": 5,
+        "timestamp": "2026-01-04T21:11:19.546076"
+      },
+      {
+        "race_id": "R20260308_12",
+        "predicted_rank": 11,
+        "actual_rank": 1,
+        "timestamp": "2026-01-05T21:11:19.546079"
+      },
+      {
+        "race_id": "R20260307_06",
+        "predicted_rank": 3,
+        "actual_rank": 9,
+        "timestamp": "2026-01-06T21:11:19.546081"
+      },
+      {
+        "race_id": "R20260222_11",
+        "predicted_rank": 2,
+        "actual_rank": 11,
+        "timestamp": "2026-01-07T21:11:19.546084"
+      },
+      {
+        "race_id": "R20260207_02",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-08T21:11:19.546087"
+      },
+      {
+        "race_id": "R20260315_04",
+        "predicted_rank": 4,
+        "actual_rank": 12,
+        "timestamp": "2026-01-09T21:11:19.546090"
+      },
+      {
+        "race_id": "R20260321_10",
+        "predicted_rank": 4,
+        "actual_rank": 6,
+        "timestamp": "2026-01-10T21:11:19.546092"
+      },
+      {
+        "race_id": "R20260214_10",
+        "predicted_rank": 10,
+        "actual_rank": 4,
+        "timestamp": "2026-01-11T21:11:19.546097"
+      },
+      {
+        "race_id": "R20260207_09",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-12T21:11:19.546100"
+      },
+      {
+        "race_id": "R20260215_04",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-13T21:11:19.546102"
+      },
+      {
+        "race_id": "R20260308_06",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-14T21:11:19.546104"
+      },
+      {
+        "race_id": "R20260208_03",
+        "predicted_rank": 8,
+        "actual_rank": 9,
+        "timestamp": "2026-01-15T21:11:19.546109"
+      },
+      {
+        "race_id": "R20260131_07",
+        "predicted_rank": 7,
+        "actual_rank": 9,
+        "timestamp": "2026-01-16T21:11:19.546112"
+      },
+      {
+        "race_id": "R20260207_03",
+        "predicted_rank": 7,
+        "actual_rank": 12,
+        "timestamp": "2026-01-17T21:11:19.546115"
+      },
+      {
+        "race_id": "R20260307_03",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-18T21:11:19.546117"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546119"
+  },
+  {
+    "tipster_id": "TIP_00027",
+    "username": "배당사냥꾼",
+    "verified": false,
+    "trust_index": {
+      "score": 71.5,
+      "components": {
+        "accuracy": 0.624,
+        "consistency": 0.624,
+        "volume": 134,
+        "transparency": 0.946
+      },
+      "brier_score": 0.266,
+      "roi": 24.6
+    },
+    "stats": {
+      "total_predictions": 440,
+      "wins": 154,
+      "places": 237,
+      "total_followers": 14027
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260207_06",
+        "predicted_rank": 4,
+        "actual_rank": 7,
+        "timestamp": "2025-12-30T21:11:19.547480"
+      },
+      {
+        "race_id": "R20260207_07",
+        "predicted_rank": 2,
+        "actual_rank": 4,
+        "timestamp": "2025-12-31T21:11:19.547483"
+      },
+      {
+        "race_id": "R20260228_10",
+        "predicted_rank": 9,
+        "actual_rank": 12,
+        "timestamp": "2026-01-01T21:11:19.547486"
+      },
+      {
+        "race_id": "R20260214_07",
+        "predicted_rank": 4,
+        "actual_rank": 12,
+        "timestamp": "2026-01-02T21:11:19.547489"
+      },
+      {
+        "race_id": "R20260222_06",
+        "predicted_rank": 1,
+        "actual_rank": 5,
+        "timestamp": "2026-01-03T21:11:19.547492"
+      },
+      {
+        "race_id": "R20260308_05",
+        "predicted_rank": 6,
+        "actual_rank": 3,
+        "timestamp": "2026-01-04T21:11:19.547495"
+      },
+      {
+        "race_id": "R20260307_10",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-05T21:11:19.547497"
+      },
+      {
+        "race_id": "R20260322_03",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-06T21:11:19.547499"
+      },
+      {
+        "race_id": "R20260228_09",
+        "predicted_rank": 11,
+        "actual_rank": 6,
+        "timestamp": "2026-01-07T21:11:19.547504"
+      },
+      {
+        "race_id": "R20260301_11",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-08T21:11:19.547507"
+      },
+      {
+        "race_id": "R20260301_04",
+        "predicted_rank": 5,
+        "actual_rank": 2,
+        "timestamp": "2026-01-09T21:11:19.547510"
+      },
+      {
+        "race_id": "R20260314_04",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-10T21:11:19.547513"
+      },
+      {
+        "race_id": "R20260322_07",
+        "predicted_rank": 9,
+        "actual_rank": 12,
+        "timestamp": "2026-01-11T21:11:19.547515"
+      },
+      {
+        "race_id": "R20260215_10",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-12T21:11:19.547518"
+      },
+      {
+        "race_id": "R20260207_02",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-13T21:11:19.547520"
+      },
+      {
+        "race_id": "R20260214_08",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-14T21:11:19.547523"
+      },
+      {
+        "race_id": "R20260315_03",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-15T21:11:19.547528"
+      },
+      {
+        "race_id": "R20260215_08",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-16T21:11:19.547530"
+      },
+      {
+        "race_id": "R20260322_01",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-17T21:11:19.547533"
+      },
+      {
+        "race_id": "R20260131_03",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-18T21:11:19.547536"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547538"
+  },
+  {
+    "tipster_id": "TIP_00001",
+    "username": "경마전문가",
+    "verified": true,
+    "trust_index": {
+      "score": 71.4,
+      "components": {
+        "accuracy": 0.59,
+        "consistency": 0.921,
+        "volume": 81,
+        "transparency": 0.863
+      },
+      "brier_score": 0.395,
+      "roi": 8.3
+    },
+    "stats": {
+      "total_predictions": 129,
+      "wins": 34,
+      "places": 66,
+      "total_followers": 35278
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260131_10",
+        "predicted_rank": 11,
+        "actual_rank": 10,
+        "timestamp": "2025-12-30T21:11:19.545122"
+      },
+      {
+        "race_id": "R20260215_07",
+        "predicted_rank": 9,
+        "actual_rank": 11,
+        "timestamp": "2025-12-31T21:11:19.545138"
+      },
+      {
+        "race_id": "R20260322_10",
+        "predicted_rank": 5,
+        "actual_rank": 10,
+        "timestamp": "2026-01-01T21:11:19.545146"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 11,
+        "actual_rank": 4,
+        "timestamp": "2026-01-02T21:11:19.545150"
+      },
+      {
+        "race_id": "R20260208_01",
+        "predicted_rank": 3,
+        "actual_rank": 5,
+        "timestamp": "2026-01-03T21:11:19.545154"
+      },
+      {
+        "race_id": "R20260207_10",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-04T21:11:19.545157"
+      },
+      {
+        "race_id": "R20260214_01",
+        "predicted_rank": 1,
+        "actual_rank": 6,
+        "timestamp": "2026-01-05T21:11:19.545160"
+      },
+      {
+        "race_id": "R20260322_06",
+        "predicted_rank": 2,
+        "actual_rank": 9,
+        "timestamp": "2026-01-06T21:11:19.545166"
+      },
+      {
+        "race_id": "R20260315_10",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-07T21:11:19.545170"
+      },
+      {
+        "race_id": "R20260207_01",
+        "predicted_rank": 11,
+        "actual_rank": 2,
+        "timestamp": "2026-01-08T21:11:19.545173"
+      },
+      {
+        "race_id": "R20260215_10",
+        "predicted_rank": 10,
+        "actual_rank": 11,
+        "timestamp": "2026-01-09T21:11:19.545176"
+      },
+      {
+        "race_id": "R20260228_09",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-10T21:11:19.545179"
+      },
+      {
+        "race_id": "R20260228_03",
+        "predicted_rank": 7,
+        "actual_rank": 4,
+        "timestamp": "2026-01-11T21:11:19.545185"
+      },
+      {
+        "race_id": "R20260228_11",
+        "predicted_rank": 1,
+        "actual_rank": 6,
+        "timestamp": "2026-01-12T21:11:19.545188"
+      },
+      {
+        "race_id": "R20260322_09",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-13T21:11:19.545190"
+      },
+      {
+        "race_id": "R20260208_07",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-14T21:11:19.545193"
+      },
+      {
+        "race_id": "R20260308_04",
+        "predicted_rank": 12,
+        "actual_rank": 11,
+        "timestamp": "2026-01-15T21:11:19.545196"
+      },
+      {
+        "race_id": "R20260222_10",
+        "predicted_rank": 2,
+        "actual_rank": 5,
+        "timestamp": "2026-01-16T21:11:19.545199"
+      },
+      {
+        "race_id": "R20260215_09",
+        "predicted_rank": 10,
+        "actual_rank": 2,
+        "timestamp": "2026-01-17T21:11:19.545202"
+      },
+      {
+        "race_id": "R20260308_11",
+        "predicted_rank": 3,
+        "actual_rank": 2,
+        "timestamp": "2026-01-18T21:11:19.545204"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.545207"
+  },
+  {
+    "tipster_id": "TIP_00015",
+    "username": "마권 왕",
+    "verified": false,
+    "trust_index": {
+      "score": 71.2,
+      "components": {
+        "accuracy": 0.457,
+        "consistency": 0.915,
+        "volume": 92,
+        "transparency": 0.832
+      },
+      "brier_score": 0.242,
+      "roi": -2.69
+    },
+    "stats": {
+      "total_predictions": 388,
+      "wins": 161,
+      "places": 194,
+      "total_followers": 9189
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260315_12",
+        "predicted_rank": 5,
+        "actual_rank": 10,
+        "timestamp": "2025-12-30T21:11:19.546490"
+      },
+      {
+        "race_id": "R20260214_08",
+        "predicted_rank": 3,
+        "actual_rank": 9,
+        "timestamp": "2025-12-31T21:11:19.546496"
+      },
+      {
+        "race_id": "R20260315_02",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-01T21:11:19.546500"
+      },
+      {
+        "race_id": "R20260301_10",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-02T21:11:19.546504"
+      },
+      {
+        "race_id": "R20260208_01",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-03T21:11:19.546507"
+      },
+      {
+        "race_id": "R20260222_01",
+        "predicted_rank": 10,
+        "actual_rank": 7,
+        "timestamp": "2026-01-04T21:11:19.546511"
+      },
+      {
+        "race_id": "R20260315_04",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-05T21:11:19.546515"
+      },
+      {
+        "race_id": "R20260215_02",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-06T21:11:19.546518"
+      },
+      {
+        "race_id": "R20260222_07",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-07T21:11:19.546522"
+      },
+      {
+        "race_id": "R20260131_04",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-08T21:11:19.546529"
+      },
+      {
+        "race_id": "R20260214_05",
+        "predicted_rank": 5,
+        "actual_rank": 2,
+        "timestamp": "2026-01-09T21:11:19.546534"
+      },
+      {
+        "race_id": "R20260207_07",
+        "predicted_rank": 2,
+        "actual_rank": 4,
+        "timestamp": "2026-01-10T21:11:19.546538"
+      },
+      {
+        "race_id": "R20260321_09",
+        "predicted_rank": 3,
+        "actual_rank": 12,
+        "timestamp": "2026-01-11T21:11:19.546543"
+      },
+      {
+        "race_id": "R20260321_04",
+        "predicted_rank": 12,
+        "actual_rank": 6,
+        "timestamp": "2026-01-12T21:11:19.546547"
+      },
+      {
+        "race_id": "R20260208_02",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-13T21:11:19.546551"
+      },
+      {
+        "race_id": "R20260301_08",
+        "predicted_rank": 11,
+        "actual_rank": 1,
+        "timestamp": "2026-01-14T21:11:19.546555"
+      },
+      {
+        "race_id": "R20260308_06",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-15T21:11:19.546559"
+      },
+      {
+        "race_id": "R20260315_01",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-16T21:11:19.546564"
+      },
+      {
+        "race_id": "R20260301_05",
+        "predicted_rank": 10,
+        "actual_rank": 1,
+        "timestamp": "2026-01-17T21:11:19.546568"
+      },
+      {
+        "race_id": "R20260207_02",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-18T21:11:19.546572"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546576"
+  },
+  {
+    "tipster_id": "TIP_00037",
+    "username": "승률의신",
+    "verified": false,
+    "trust_index": {
+      "score": 71.2,
+      "components": {
+        "accuracy": 0.496,
+        "consistency": 0.734,
+        "volume": 98,
+        "transparency": 0.988
+      },
+      "brier_score": 0.213,
+      "roi": -4.81
+    },
+    "stats": {
+      "total_predictions": 416,
+      "wins": 221,
+      "places": 219,
+      "total_followers": 39577
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260321_09",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2025-12-30T21:11:19.548389"
+      },
+      {
+        "race_id": "R20260207_02",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2025-12-31T21:11:19.548400"
+      },
+      {
+        "race_id": "R20260301_06",
+        "predicted_rank": 11,
+        "actual_rank": 4,
+        "timestamp": "2026-01-01T21:11:19.548405"
+      },
+      {
+        "race_id": "R20260208_01",
+        "predicted_rank": 5,
+        "actual_rank": 7,
+        "timestamp": "2026-01-02T21:11:19.548409"
+      },
+      {
+        "race_id": "R20260214_04",
+        "predicted_rank": 12,
+        "actual_rank": 10,
+        "timestamp": "2026-01-03T21:11:19.548414"
+      },
+      {
+        "race_id": "R20260308_08",
+        "predicted_rank": 5,
+        "actual_rank": 8,
+        "timestamp": "2026-01-04T21:11:19.548419"
+      },
+      {
+        "race_id": "R20260307_04",
+        "predicted_rank": 12,
+        "actual_rank": 8,
+        "timestamp": "2026-01-05T21:11:19.548423"
+      },
+      {
+        "race_id": "R20260222_05",
+        "predicted_rank": 4,
+        "actual_rank": 12,
+        "timestamp": "2026-01-06T21:11:19.548429"
+      },
+      {
+        "race_id": "R20260208_02",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-07T21:11:19.548433"
+      },
+      {
+        "race_id": "R20260307_12",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-08T21:11:19.548439"
+      },
+      {
+        "race_id": "R20260207_01",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-09T21:11:19.548443"
+      },
+      {
+        "race_id": "R20260301_07",
+        "predicted_rank": 6,
+        "actual_rank": 3,
+        "timestamp": "2026-01-10T21:11:19.548451"
+      },
+      {
+        "race_id": "R20260222_11",
+        "predicted_rank": 4,
+        "actual_rank": 2,
+        "timestamp": "2026-01-11T21:11:19.548456"
+      },
+      {
+        "race_id": "R20260307_03",
+        "predicted_rank": 11,
+        "actual_rank": 1,
+        "timestamp": "2026-01-12T21:11:19.548460"
+      },
+      {
+        "race_id": "R20260315_07",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-13T21:11:19.548465"
+      },
+      {
+        "race_id": "R20260308_10",
+        "predicted_rank": 12,
+        "actual_rank": 5,
+        "timestamp": "2026-01-14T21:11:19.548470"
+      },
+      {
+        "race_id": "R20260228_07",
+        "predicted_rank": 11,
+        "actual_rank": 2,
+        "timestamp": "2026-01-15T21:11:19.548476"
+      },
+      {
+        "race_id": "R20260208_04",
+        "predicted_rank": 12,
+        "actual_rank": 8,
+        "timestamp": "2026-01-16T21:11:19.548481"
+      },
+      {
+        "race_id": "R20260214_09",
+        "predicted_rank": 2,
+        "actual_rank": 3,
+        "timestamp": "2026-01-17T21:11:19.548486"
+      },
+      {
+        "race_id": "R20260315_01",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-18T21:11:19.548490"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.548493"
+  },
+  {
+    "tipster_id": "TIP_00050",
+    "username": "경주마 분석가",
+    "verified": true,
+    "trust_index": {
+      "score": 70.9,
+      "components": {
+        "accuracy": 0.448,
+        "consistency": 0.86,
+        "volume": 80,
+        "transparency": 0.732
+      },
+      "brier_score": 0.117,
+      "roi": -3.5
+    },
+    "stats": {
+      "total_predictions": 137,
+      "wins": 67,
+      "places": 69,
+      "total_followers": 15014
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260307_06",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2025-12-30T21:11:19.549635"
+      },
+      {
+        "race_id": "R20260208_08",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2025-12-31T21:11:19.549638"
+      },
+      {
+        "race_id": "R20260131_04",
+        "predicted_rank": 11,
+        "actual_rank": 10,
+        "timestamp": "2026-01-01T21:11:19.549641"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 4,
+        "actual_rank": 12,
+        "timestamp": "2026-01-02T21:11:19.549645"
+      },
+      {
+        "race_id": "R20260207_09",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-03T21:11:19.549648"
+      },
+      {
+        "race_id": "R20260321_09",
+        "predicted_rank": 1,
+        "actual_rank": 9,
+        "timestamp": "2026-01-04T21:11:19.549651"
+      },
+      {
+        "race_id": "R20260131_03",
+        "predicted_rank": 12,
+        "actual_rank": 9,
+        "timestamp": "2026-01-05T21:11:19.549653"
+      },
+      {
+        "race_id": "R20260307_10",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-06T21:11:19.549656"
+      },
+      {
+        "race_id": "R20260222_10",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-07T21:11:19.549658"
+      },
+      {
+        "race_id": "R20260214_12",
+        "predicted_rank": 6,
+        "actual_rank": 9,
+        "timestamp": "2026-01-08T21:11:19.549661"
+      },
+      {
+        "race_id": "R20260314_10",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-09T21:11:19.549663"
+      },
+      {
+        "race_id": "R20260307_09",
+        "predicted_rank": 12,
+        "actual_rank": 5,
+        "timestamp": "2026-01-10T21:11:19.549666"
+      },
+      {
+        "race_id": "R20260322_12",
+        "predicted_rank": 11,
+        "actual_rank": 2,
+        "timestamp": "2026-01-11T21:11:19.549669"
+      },
+      {
+        "race_id": "R20260301_03",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-12T21:11:19.549671"
+      },
+      {
+        "race_id": "R20260215_11",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-13T21:11:19.549673"
+      },
+      {
+        "race_id": "R20260314_11",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-14T21:11:19.549676"
+      },
+      {
+        "race_id": "R20260208_02",
+        "predicted_rank": 9,
+        "actual_rank": 7,
+        "timestamp": "2026-01-15T21:11:19.549678"
+      },
+      {
+        "race_id": "R20260321_03",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-16T21:11:19.549681"
+      },
+      {
+        "race_id": "R20260307_03",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-17T21:11:19.549683"
+      },
+      {
+        "race_id": "R20260228_01",
+        "predicted_rank": 7,
+        "actual_rank": 1,
+        "timestamp": "2026-01-18T21:11:19.549689"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.549690"
+  },
+  {
+    "tipster_id": "TIP_00031",
+    "username": "경주마 마스터",
+    "verified": false,
+    "trust_index": {
+      "score": 70.8,
+      "components": {
+        "accuracy": 0.597,
+        "consistency": 0.834,
+        "volume": 125,
+        "transparency": 0.777
+      },
+      "brier_score": 0.375,
+      "roi": -1.85
+    },
+    "stats": {
+      "total_predictions": 361,
+      "wins": 184,
+      "places": 155,
+      "total_followers": 16520
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260308_05",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2025-12-30T21:11:19.547854"
+      },
+      {
+        "race_id": "R20260301_03",
+        "predicted_rank": 9,
+        "actual_rank": 2,
+        "timestamp": "2025-12-31T21:11:19.547857"
+      },
+      {
+        "race_id": "R20260308_04",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-01T21:11:19.547860"
+      },
+      {
+        "race_id": "R20260215_07",
+        "predicted_rank": 7,
+        "actual_rank": 3,
+        "timestamp": "2026-01-02T21:11:19.547863"
+      },
+      {
+        "race_id": "R20260308_03",
+        "predicted_rank": 6,
+        "actual_rank": 12,
+        "timestamp": "2026-01-03T21:11:19.547866"
+      },
+      {
+        "race_id": "R20260321_10",
+        "predicted_rank": 6,
+        "actual_rank": 8,
+        "timestamp": "2026-01-04T21:11:19.547868"
+      },
+      {
+        "race_id": "R20260214_02",
+        "predicted_rank": 10,
+        "actual_rank": 9,
+        "timestamp": "2026-01-05T21:11:19.547871"
+      },
+      {
+        "race_id": "R20260315_03",
+        "predicted_rank": 4,
+        "actual_rank": 12,
+        "timestamp": "2026-01-06T21:11:19.547874"
+      },
+      {
+        "race_id": "R20260307_10",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-07T21:11:19.547877"
+      },
+      {
+        "race_id": "R20260322_05",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-08T21:11:19.547879"
+      },
+      {
+        "race_id": "R20260222_10",
+        "predicted_rank": 5,
+        "actual_rank": 7,
+        "timestamp": "2026-01-09T21:11:19.547882"
+      },
+      {
+        "race_id": "R20260207_08",
+        "predicted_rank": 2,
+        "actual_rank": 1,
+        "timestamp": "2026-01-10T21:11:19.547900"
+      },
+      {
+        "race_id": "R20260314_09",
+        "predicted_rank": 4,
+        "actual_rank": 8,
+        "timestamp": "2026-01-11T21:11:19.547903"
+      },
+      {
+        "race_id": "R20260215_08",
+        "predicted_rank": 11,
+        "actual_rank": 1,
+        "timestamp": "2026-01-12T21:11:19.547906"
+      },
+      {
+        "race_id": "R20260221_11",
+        "predicted_rank": 2,
+        "actual_rank": 11,
+        "timestamp": "2026-01-13T21:11:19.547908"
+      },
+      {
+        "race_id": "R20260215_02",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-14T21:11:19.547911"
+      },
+      {
+        "race_id": "R20260207_04",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-15T21:11:19.547913"
+      },
+      {
+        "race_id": "R20260208_08",
+        "predicted_rank": 4,
+        "actual_rank": 6,
+        "timestamp": "2026-01-16T21:11:19.547916"
+      },
+      {
+        "race_id": "R20260322_04",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-17T21:11:19.547919"
+      },
+      {
+        "race_id": "R20260215_06",
+        "predicted_rank": 1,
+        "actual_rank": 11,
+        "timestamp": "2026-01-18T21:11:19.547921"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547923"
+  },
+  {
+    "tipster_id": "TIP_00039",
+    "username": "배당 최적화자",
+    "verified": false,
+    "trust_index": {
+      "score": 70.6,
+      "components": {
+        "accuracy": 0.626,
+        "consistency": 0.517,
+        "volume": 281,
+        "transparency": 0.818
+      },
+      "brier_score": 0.384,
+      "roi": 20.81
+    },
+    "stats": {
+      "total_predictions": 381,
+      "wins": 165,
+      "places": 232,
+      "total_followers": 17366
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260214_12",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2025-12-30T21:11:19.548677"
+      },
+      {
+        "race_id": "R20260315_01",
+        "predicted_rank": 3,
+        "actual_rank": 1,
+        "timestamp": "2025-12-31T21:11:19.548683"
+      },
+      {
+        "race_id": "R20260214_02",
+        "predicted_rank": 5,
+        "actual_rank": 3,
+        "timestamp": "2026-01-01T21:11:19.548688"
+      },
+      {
+        "race_id": "R20260301_04",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-02T21:11:19.548693"
+      },
+      {
+        "race_id": "R20260322_10",
+        "predicted_rank": 4,
+        "actual_rank": 9,
+        "timestamp": "2026-01-03T21:11:19.548698"
+      },
+      {
+        "race_id": "R20260308_12",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-04T21:11:19.548702"
+      },
+      {
+        "race_id": "R20260131_09",
+        "predicted_rank": 1,
+        "actual_rank": 7,
+        "timestamp": "2026-01-05T21:11:19.548707"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-06T21:11:19.548712"
+      },
+      {
+        "race_id": "R20260228_03",
+        "predicted_rank": 10,
+        "actual_rank": 2,
+        "timestamp": "2026-01-07T21:11:19.548716"
+      },
+      {
+        "race_id": "R20260307_11",
+        "predicted_rank": 4,
+        "actual_rank": 2,
+        "timestamp": "2026-01-08T21:11:19.548721"
+      },
+      {
+        "race_id": "R20260131_01",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-09T21:11:19.548726"
+      },
+      {
+        "race_id": "R20260307_06",
+        "predicted_rank": 7,
+        "actual_rank": 11,
+        "timestamp": "2026-01-10T21:11:19.548730"
+      },
+      {
+        "race_id": "R20260315_09",
+        "predicted_rank": 3,
+        "actual_rank": 7,
+        "timestamp": "2026-01-11T21:11:19.548735"
+      },
+      {
+        "race_id": "R20260228_01",
+        "predicted_rank": 6,
+        "actual_rank": 4,
+        "timestamp": "2026-01-12T21:11:19.548740"
+      },
+      {
+        "race_id": "R20260321_10",
+        "predicted_rank": 5,
+        "actual_rank": 12,
+        "timestamp": "2026-01-13T21:11:19.548745"
+      },
+      {
+        "race_id": "R20260221_08",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-14T21:11:19.548750"
+      },
+      {
+        "race_id": "R20260222_10",
+        "predicted_rank": 4,
+        "actual_rank": 5,
+        "timestamp": "2026-01-15T21:11:19.548754"
+      },
+      {
+        "race_id": "R20260228_07",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-16T21:11:19.548764"
+      },
+      {
+        "race_id": "R20260228_10",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-17T21:11:19.548768"
+      },
+      {
+        "race_id": "R20260321_12",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-18T21:11:19.548772"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.548776"
+  },
+  {
+    "tipster_id": "TIP_00012",
+    "username": "경마 리포터",
+    "verified": true,
+    "trust_index": {
+      "score": 69.7,
+      "components": {
+        "accuracy": 0.443,
+        "consistency": 0.614,
+        "volume": 229,
+        "transparency": 0.81
+      },
+      "brier_score": 0.237,
+      "roi": 0.44
+    },
+    "stats": {
+      "total_predictions": 394,
+      "wins": 160,
+      "places": 156,
+      "total_followers": 42204
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260221_07",
+        "predicted_rank": 2,
+        "actual_rank": 3,
+        "timestamp": "2025-12-30T21:11:19.546238"
+      },
+      {
+        "race_id": "R20260222_07",
+        "predicted_rank": 12,
+        "actual_rank": 5,
+        "timestamp": "2025-12-31T21:11:19.546241"
+      },
+      {
+        "race_id": "R20260307_12",
+        "predicted_rank": 3,
+        "actual_rank": 9,
+        "timestamp": "2026-01-01T21:11:19.546244"
+      },
+      {
+        "race_id": "R20260322_07",
+        "predicted_rank": 10,
+        "actual_rank": 3,
+        "timestamp": "2026-01-02T21:11:19.546258"
+      },
+      {
+        "race_id": "R20260221_08",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-03T21:11:19.546261"
+      },
+      {
+        "race_id": "R20260301_03",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-04T21:11:19.546264"
+      },
+      {
+        "race_id": "R20260215_10",
+        "predicted_rank": 5,
+        "actual_rank": 2,
+        "timestamp": "2026-01-05T21:11:19.546267"
+      },
+      {
+        "race_id": "R20260214_07",
+        "predicted_rank": 12,
+        "actual_rank": 11,
+        "timestamp": "2026-01-06T21:11:19.546269"
+      },
+      {
+        "race_id": "R20260221_04",
+        "predicted_rank": 1,
+        "actual_rank": 6,
+        "timestamp": "2026-01-07T21:11:19.546272"
+      },
+      {
+        "race_id": "R20260308_06",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-08T21:11:19.546275"
+      },
+      {
+        "race_id": "R20260207_07",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-09T21:11:19.546278"
+      },
+      {
+        "race_id": "R20260315_07",
+        "predicted_rank": 9,
+        "actual_rank": 5,
+        "timestamp": "2026-01-10T21:11:19.546280"
+      },
+      {
+        "race_id": "R20260315_05",
+        "predicted_rank": 3,
+        "actual_rank": 4,
+        "timestamp": "2026-01-11T21:11:19.546283"
+      },
+      {
+        "race_id": "R20260315_03",
+        "predicted_rank": 5,
+        "actual_rank": 2,
+        "timestamp": "2026-01-12T21:11:19.546286"
+      },
+      {
+        "race_id": "R20260308_04",
+        "predicted_rank": 1,
+        "actual_rank": 10,
+        "timestamp": "2026-01-13T21:11:19.546289"
+      },
+      {
+        "race_id": "R20260321_04",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-14T21:11:19.546291"
+      },
+      {
+        "race_id": "R20260221_03",
+        "predicted_rank": 10,
+        "actual_rank": 5,
+        "timestamp": "2026-01-15T21:11:19.546294"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-16T21:11:19.546296"
+      },
+      {
+        "race_id": "R20260322_11",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-17T21:11:19.546299"
+      },
+      {
+        "race_id": "R20260131_02",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-18T21:11:19.546301"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546303"
+  },
+  {
+    "tipster_id": "TIP_00019",
+    "username": "말 읽는 사람",
+    "verified": false,
+    "trust_index": {
+      "score": 69.5,
+      "components": {
+        "accuracy": 0.47,
+        "consistency": 0.753,
+        "volume": 141,
+        "transparency": 0.987
+      },
+      "brier_score": 0.39,
+      "roi": -10.55
+    },
+    "stats": {
+      "total_predictions": 79,
+      "wins": 40,
+      "places": 47,
+      "total_followers": 33530
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260228_04",
+        "predicted_rank": 3,
+        "actual_rank": 5,
+        "timestamp": "2025-12-30T21:11:19.546838"
+      },
+      {
+        "race_id": "R20260315_04",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2025-12-31T21:11:19.546841"
+      },
+      {
+        "race_id": "R20260307_12",
+        "predicted_rank": 7,
+        "actual_rank": 2,
+        "timestamp": "2026-01-01T21:11:19.546846"
+      },
+      {
+        "race_id": "R20260307_05",
+        "predicted_rank": 1,
+        "actual_rank": 9,
+        "timestamp": "2026-01-02T21:11:19.546849"
+      },
+      {
+        "race_id": "R20260208_12",
+        "predicted_rank": 11,
+        "actual_rank": 3,
+        "timestamp": "2026-01-03T21:11:19.546853"
+      },
+      {
+        "race_id": "R20260321_02",
+        "predicted_rank": 7,
+        "actual_rank": 5,
+        "timestamp": "2026-01-04T21:11:19.546856"
+      },
+      {
+        "race_id": "R20260314_11",
+        "predicted_rank": 9,
+        "actual_rank": 3,
+        "timestamp": "2026-01-05T21:11:19.546859"
+      },
+      {
+        "race_id": "R20260301_09",
+        "predicted_rank": 7,
+        "actual_rank": 12,
+        "timestamp": "2026-01-06T21:11:19.546861"
+      },
+      {
+        "race_id": "R20260131_05",
+        "predicted_rank": 1,
+        "actual_rank": 8,
+        "timestamp": "2026-01-07T21:11:19.546864"
+      },
+      {
+        "race_id": "R20260221_08",
+        "predicted_rank": 5,
+        "actual_rank": 11,
+        "timestamp": "2026-01-08T21:11:19.546867"
+      },
+      {
+        "race_id": "R20260214_12",
+        "predicted_rank": 10,
+        "actual_rank": 7,
+        "timestamp": "2026-01-09T21:11:19.546870"
+      },
+      {
+        "race_id": "R20260131_01",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-10T21:11:19.546872"
+      },
+      {
+        "race_id": "R20260222_01",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-11T21:11:19.546875"
+      },
+      {
+        "race_id": "R20260222_08",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-12T21:11:19.546877"
+      },
+      {
+        "race_id": "R20260214_07",
+        "predicted_rank": 7,
+        "actual_rank": 8,
+        "timestamp": "2026-01-13T21:11:19.546880"
+      },
+      {
+        "race_id": "R20260208_03",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-14T21:11:19.546882"
+      },
+      {
+        "race_id": "R20260221_12",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-15T21:11:19.546885"
+      },
+      {
+        "race_id": "R20260315_03",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-16T21:11:19.546887"
+      },
+      {
+        "race_id": "R20260214_04",
+        "predicted_rank": 4,
+        "actual_rank": 6,
+        "timestamp": "2026-01-17T21:11:19.546892"
+      },
+      {
+        "race_id": "R20260131_04",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-18T21:11:19.546895"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546897"
+  },
+  {
+    "tipster_id": "TIP_00045",
+    "username": "마권 왕",
+    "verified": true,
+    "trust_index": {
+      "score": 69.5,
+      "components": {
+        "accuracy": 0.679,
+        "consistency": 0.676,
+        "volume": 122,
+        "transparency": 0.756
+      },
+      "brier_score": 0.396,
+      "roi": -3.29
+    },
+    "stats": {
+      "total_predictions": 470,
+      "wins": 188,
+      "places": 253,
+      "total_followers": 40830
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260315_10",
+        "predicted_rank": 4,
+        "actual_rank": 12,
+        "timestamp": "2025-12-30T21:11:19.549265"
+      },
+      {
+        "race_id": "R20260222_01",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2025-12-31T21:11:19.549268"
+      },
+      {
+        "race_id": "R20260131_06",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-01T21:11:19.549270"
+      },
+      {
+        "race_id": "R20260307_09",
+        "predicted_rank": 3,
+        "actual_rank": 2,
+        "timestamp": "2026-01-02T21:11:19.549273"
+      },
+      {
+        "race_id": "R20260308_03",
+        "predicted_rank": 6,
+        "actual_rank": 7,
+        "timestamp": "2026-01-03T21:11:19.549276"
+      },
+      {
+        "race_id": "R20260207_10",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-04T21:11:19.549278"
+      },
+      {
+        "race_id": "R20260214_05",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-05T21:11:19.549283"
+      },
+      {
+        "race_id": "R20260308_11",
+        "predicted_rank": 11,
+        "actual_rank": 12,
+        "timestamp": "2026-01-06T21:11:19.549287"
+      },
+      {
+        "race_id": "R20260208_11",
+        "predicted_rank": 5,
+        "actual_rank": 1,
+        "timestamp": "2026-01-07T21:11:19.549290"
+      },
+      {
+        "race_id": "R20260131_02",
+        "predicted_rank": 4,
+        "actual_rank": 11,
+        "timestamp": "2026-01-08T21:11:19.549293"
+      },
+      {
+        "race_id": "R20260215_12",
+        "predicted_rank": 9,
+        "actual_rank": 4,
+        "timestamp": "2026-01-09T21:11:19.549296"
+      },
+      {
+        "race_id": "R20260315_02",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-10T21:11:19.549298"
+      },
+      {
+        "race_id": "R20260228_02",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-11T21:11:19.549300"
+      },
+      {
+        "race_id": "R20260307_03",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-12T21:11:19.549303"
+      },
+      {
+        "race_id": "R20260314_08",
+        "predicted_rank": 9,
+        "actual_rank": 4,
+        "timestamp": "2026-01-13T21:11:19.549305"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 11,
+        "actual_rank": 4,
+        "timestamp": "2026-01-14T21:11:19.549308"
+      },
+      {
+        "race_id": "R20260308_12",
+        "predicted_rank": 12,
+        "actual_rank": 7,
+        "timestamp": "2026-01-15T21:11:19.549311"
+      },
+      {
+        "race_id": "R20260321_03",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-16T21:11:19.549313"
+      },
+      {
+        "race_id": "R20260207_04",
+        "predicted_rank": 7,
+        "actual_rank": 12,
+        "timestamp": "2026-01-17T21:11:19.549316"
+      },
+      {
+        "race_id": "R20260321_05",
+        "predicted_rank": 11,
+        "actual_rank": 9,
+        "timestamp": "2026-01-18T21:11:19.549318"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.549320"
+  },
+  {
+    "tipster_id": "TIP_00013",
+    "username": "경마전문가",
+    "verified": false,
+    "trust_index": {
+      "score": 69.0,
+      "components": {
+        "accuracy": 0.484,
+        "consistency": 0.571,
+        "volume": 126,
+        "transparency": 0.835
+      },
+      "brier_score": 0.147,
+      "roi": -11.64
+    },
+    "stats": {
+      "total_predictions": 500,
+      "wins": 260,
+      "places": 163,
+      "total_followers": 34724
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260131_04",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2025-12-30T21:11:19.546328"
+      },
+      {
+        "race_id": "R20260314_12",
+        "predicted_rank": 10,
+        "actual_rank": 8,
+        "timestamp": "2025-12-31T21:11:19.546332"
+      },
+      {
+        "race_id": "R20260222_12",
+        "predicted_rank": 2,
+        "actual_rank": 8,
+        "timestamp": "2026-01-01T21:11:19.546335"
+      },
+      {
+        "race_id": "R20260207_03",
+        "predicted_rank": 5,
+        "actual_rank": 9,
+        "timestamp": "2026-01-02T21:11:19.546338"
+      },
+      {
+        "race_id": "R20260222_07",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-03T21:11:19.546340"
+      },
+      {
+        "race_id": "R20260322_08",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-04T21:11:19.546343"
+      },
+      {
+        "race_id": "R20260308_01",
+        "predicted_rank": 8,
+        "actual_rank": 11,
+        "timestamp": "2026-01-05T21:11:19.546346"
+      },
+      {
+        "race_id": "R20260222_06",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-06T21:11:19.546348"
+      },
+      {
+        "race_id": "R20260308_10",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-07T21:11:19.546351"
+      },
+      {
+        "race_id": "R20260307_03",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-08T21:11:19.546354"
+      },
+      {
+        "race_id": "R20260321_10",
+        "predicted_rank": 4,
+        "actual_rank": 11,
+        "timestamp": "2026-01-09T21:11:19.546356"
+      },
+      {
+        "race_id": "R20260301_06",
+        "predicted_rank": 3,
+        "actual_rank": 5,
+        "timestamp": "2026-01-10T21:11:19.546361"
+      },
+      {
+        "race_id": "R20260301_08",
+        "predicted_rank": 8,
+        "actual_rank": 5,
+        "timestamp": "2026-01-11T21:11:19.546364"
+      },
+      {
+        "race_id": "R20260314_01",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-12T21:11:19.546366"
+      },
+      {
+        "race_id": "R20260307_10",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-13T21:11:19.546369"
+      },
+      {
+        "race_id": "R20260314_04",
+        "predicted_rank": 8,
+        "actual_rank": 1,
+        "timestamp": "2026-01-14T21:11:19.546372"
+      },
+      {
+        "race_id": "R20260315_11",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-15T21:11:19.546378"
+      },
+      {
+        "race_id": "R20260207_06",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-16T21:11:19.546380"
+      },
+      {
+        "race_id": "R20260214_07",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-17T21:11:19.546383"
+      },
+      {
+        "race_id": "R20260322_09",
+        "predicted_rank": 8,
+        "actual_rank": 7,
+        "timestamp": "2026-01-18T21:11:19.546386"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.546388"
+  },
+  {
+    "tipster_id": "TIP_00025",
+    "username": "마권투자자",
+    "verified": false,
+    "trust_index": {
+      "score": 68.1,
+      "components": {
+        "accuracy": 0.44,
+        "consistency": 0.734,
+        "volume": 96,
+        "transparency": 0.979
+      },
+      "brier_score": 0.361,
+      "roi": -5.87
+    },
+    "stats": {
+      "total_predictions": 130,
+      "wins": 56,
+      "places": 83,
+      "total_followers": 14523
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260308_08",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2025-12-30T21:11:19.547328"
+      },
+      {
+        "race_id": "R20260208_12",
+        "predicted_rank": 4,
+        "actual_rank": 12,
+        "timestamp": "2025-12-31T21:11:19.547331"
+      },
+      {
+        "race_id": "R20260131_02",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-01T21:11:19.547334"
+      },
+      {
+        "race_id": "R20260301_11",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-02T21:11:19.547336"
+      },
+      {
+        "race_id": "R20260208_03",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-03T21:11:19.547339"
+      },
+      {
+        "race_id": "R20260222_11",
+        "predicted_rank": 3,
+        "actual_rank": 3,
+        "timestamp": "2026-01-04T21:11:19.547344"
+      },
+      {
+        "race_id": "R20260315_10",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-05T21:11:19.547346"
+      },
+      {
+        "race_id": "R20260228_03",
+        "predicted_rank": 3,
+        "actual_rank": 11,
+        "timestamp": "2026-01-06T21:11:19.547349"
+      },
+      {
+        "race_id": "R20260207_04",
+        "predicted_rank": 1,
+        "actual_rank": 6,
+        "timestamp": "2026-01-07T21:11:19.547352"
+      },
+      {
+        "race_id": "R20260228_06",
+        "predicted_rank": 10,
+        "actual_rank": 12,
+        "timestamp": "2026-01-08T21:11:19.547355"
+      },
+      {
+        "race_id": "R20260221_12",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-09T21:11:19.547357"
+      },
+      {
+        "race_id": "R20260301_05",
+        "predicted_rank": 3,
+        "actual_rank": 4,
+        "timestamp": "2026-01-10T21:11:19.547360"
+      },
+      {
+        "race_id": "R20260221_07",
+        "predicted_rank": 7,
+        "actual_rank": 9,
+        "timestamp": "2026-01-11T21:11:19.547363"
+      },
+      {
+        "race_id": "R20260307_04",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-12T21:11:19.547365"
+      },
+      {
+        "race_id": "R20260131_07",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-13T21:11:19.547368"
+      },
+      {
+        "race_id": "R20260321_05",
+        "predicted_rank": 12,
+        "actual_rank": 12,
+        "timestamp": "2026-01-14T21:11:19.547370"
+      },
+      {
+        "race_id": "R20260315_08",
+        "predicted_rank": 1,
+        "actual_rank": 9,
+        "timestamp": "2026-01-15T21:11:19.547373"
+      },
+      {
+        "race_id": "R20260314_09",
+        "predicted_rank": 5,
+        "actual_rank": 2,
+        "timestamp": "2026-01-16T21:11:19.547375"
+      },
+      {
+        "race_id": "R20260321_09",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-17T21:11:19.547380"
+      },
+      {
+        "race_id": "R20260321_06",
+        "predicted_rank": 9,
+        "actual_rank": 3,
+        "timestamp": "2026-01-18T21:11:19.547383"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547385"
+  },
+  {
+    "tipster_id": "TIP_00008",
+    "username": "경주마 분석가",
+    "verified": true,
+    "trust_index": {
+      "score": 67.5,
+      "components": {
+        "accuracy": 0.464,
+        "consistency": 0.592,
+        "volume": 132,
+        "transparency": 0.905
+      },
+      "brier_score": 0.305,
+      "roi": -12.25
+    },
+    "stats": {
+      "total_predictions": 248,
+      "wins": 100,
+      "places": 133,
+      "total_followers": 8136
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260222_08",
+        "predicted_rank": 9,
+        "actual_rank": 10,
+        "timestamp": "2025-12-30T21:11:19.545756"
+      },
+      {
+        "race_id": "R20260131_08",
+        "predicted_rank": 10,
+        "actual_rank": 5,
+        "timestamp": "2025-12-31T21:11:19.545766"
+      },
+      {
+        "race_id": "R20260314_01",
+        "predicted_rank": 8,
+        "actual_rank": 3,
+        "timestamp": "2026-01-01T21:11:19.545771"
+      },
+      {
+        "race_id": "R20260214_07",
+        "predicted_rank": 9,
+        "actual_rank": 3,
+        "timestamp": "2026-01-02T21:11:19.545776"
+      },
+      {
+        "race_id": "R20260314_10",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-03T21:11:19.545779"
+      },
+      {
+        "race_id": "R20260207_08",
+        "predicted_rank": 5,
+        "actual_rank": 5,
+        "timestamp": "2026-01-04T21:11:19.545783"
+      },
+      {
+        "race_id": "R20260207_03",
+        "predicted_rank": 7,
+        "actual_rank": 9,
+        "timestamp": "2026-01-05T21:11:19.545787"
+      },
+      {
+        "race_id": "R20260207_01",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-06T21:11:19.545791"
+      },
+      {
+        "race_id": "R20260214_12",
+        "predicted_rank": 6,
+        "actual_rank": 1,
+        "timestamp": "2026-01-07T21:11:19.545795"
+      },
+      {
+        "race_id": "R20260222_12",
+        "predicted_rank": 12,
+        "actual_rank": 2,
+        "timestamp": "2026-01-08T21:11:19.545799"
+      },
+      {
+        "race_id": "R20260215_03",
+        "predicted_rank": 6,
+        "actual_rank": 4,
+        "timestamp": "2026-01-09T21:11:19.545803"
+      },
+      {
+        "race_id": "R20260307_05",
+        "predicted_rank": 9,
+        "actual_rank": 4,
+        "timestamp": "2026-01-10T21:11:19.545808"
+      },
+      {
+        "race_id": "R20260308_08",
+        "predicted_rank": 6,
+        "actual_rank": 6,
+        "timestamp": "2026-01-11T21:11:19.545812"
+      },
+      {
+        "race_id": "R20260131_05",
+        "predicted_rank": 6,
+        "actual_rank": 3,
+        "timestamp": "2026-01-12T21:11:19.545902"
+      },
+      {
+        "race_id": "R20260307_11",
+        "predicted_rank": 8,
+        "actual_rank": 11,
+        "timestamp": "2026-01-13T21:11:19.545909"
+      },
+      {
+        "race_id": "R20260321_09",
+        "predicted_rank": 4,
+        "actual_rank": 2,
+        "timestamp": "2026-01-14T21:11:19.545914"
+      },
+      {
+        "race_id": "R20260315_02",
+        "predicted_rank": 5,
+        "actual_rank": 9,
+        "timestamp": "2026-01-15T21:11:19.545933"
+      },
+      {
+        "race_id": "R20260308_10",
+        "predicted_rank": 7,
+        "actual_rank": 7,
+        "timestamp": "2026-01-16T21:11:19.545937"
+      },
+      {
+        "race_id": "R20260321_07",
+        "predicted_rank": 4,
+        "actual_rank": 4,
+        "timestamp": "2026-01-17T21:11:19.545943"
+      },
+      {
+        "race_id": "R20260308_06",
+        "predicted_rank": 11,
+        "actual_rank": 6,
+        "timestamp": "2026-01-18T21:11:19.545946"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.545949"
+  },
+  {
+    "tipster_id": "TIP_00021",
+    "username": "경마 코치",
+    "verified": true,
+    "trust_index": {
+      "score": 67.3,
+      "components": {
+        "accuracy": 0.452,
+        "consistency": 0.596,
+        "volume": 172,
+        "transparency": 0.916
+      },
+      "brier_score": 0.379,
+      "roi": -5.06
+    },
+    "stats": {
+      "total_predictions": 220,
+      "wins": 59,
+      "places": 75,
+      "total_followers": 14006
+    },
+    "recent_picks": [
+      {
+        "race_id": "R20260131_12",
+        "predicted_rank": 5,
+        "actual_rank": 3,
+        "timestamp": "2025-12-30T21:11:19.547015"
+      },
+      {
+        "race_id": "R20260215_01",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2025-12-31T21:11:19.547018"
+      },
+      {
+        "race_id": "R20260322_05",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-01T21:11:19.547021"
+      },
+      {
+        "race_id": "R20260307_04",
+        "predicted_rank": 9,
+        "actual_rank": 9,
+        "timestamp": "2026-01-02T21:11:19.547024"
+      },
+      {
+        "race_id": "R20260207_02",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-03T21:11:19.547026"
+      },
+      {
+        "race_id": "R20260301_03",
+        "predicted_rank": 4,
+        "actual_rank": 6,
+        "timestamp": "2026-01-04T21:11:19.547029"
+      },
+      {
+        "race_id": "R20260308_05",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-05T21:11:19.547032"
+      },
+      {
+        "race_id": "R20260228_01",
+        "predicted_rank": 11,
+        "actual_rank": 11,
+        "timestamp": "2026-01-06T21:11:19.547034"
+      },
+      {
+        "race_id": "R20260307_12",
+        "predicted_rank": 1,
+        "actual_rank": 1,
+        "timestamp": "2026-01-07T21:11:19.547037"
+      },
+      {
+        "race_id": "R20260307_11",
+        "predicted_rank": 10,
+        "actual_rank": 10,
+        "timestamp": "2026-01-08T21:11:19.547039"
+      },
+      {
+        "race_id": "R20260308_07",
+        "predicted_rank": 5,
+        "actual_rank": 11,
+        "timestamp": "2026-01-09T21:11:19.547042"
+      },
+      {
+        "race_id": "R20260314_02",
+        "predicted_rank": 2,
+        "actual_rank": 4,
+        "timestamp": "2026-01-10T21:11:19.547045"
+      },
+      {
+        "race_id": "R20260208_06",
+        "predicted_rank": 1,
+        "actual_rank": 8,
+        "timestamp": "2026-01-11T21:11:19.547047"
+      },
+      {
+        "race_id": "R20260207_06",
+        "predicted_rank": 1,
+        "actual_rank": 8,
+        "timestamp": "2026-01-12T21:11:19.547050"
+      },
+      {
+        "race_id": "R20260307_01",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-13T21:11:19.547053"
+      },
+      {
+        "race_id": "R20260322_01",
+        "predicted_rank": 2,
+        "actual_rank": 2,
+        "timestamp": "2026-01-14T21:11:19.547055"
+      },
+      {
+        "race_id": "R20260322_07",
+        "predicted_rank": 2,
+        "actual_rank": 4,
+        "timestamp": "2026-01-15T21:11:19.547058"
+      },
+      {
+        "race_id": "R20260228_07",
+        "predicted_rank": 8,
+        "actual_rank": 8,
+        "timestamp": "2026-01-16T21:11:19.547060"
+      },
+      {
+        "race_id": "R20260228_12",
+        "predicted_rank": 2,
+        "actual_rank": 1,
+        "timestamp": "2026-01-17T21:11:19.547063"
+      },
+      {
+        "race_id": "R20260131_11",
+        "predicted_rank": 7,
+        "actual_rank": 3,
+        "timestamp": "2026-01-18T21:11:19.547068"
+      }
+    ],
+    "created_at": "2026-01-19T21:11:19.547070"
+  }
+]
