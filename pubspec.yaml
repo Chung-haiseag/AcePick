@@ -86,7 +86,6 @@ flutter:
   uses-material-design: true
 
   assets:
-    - .env
     - assets/mock_data/
     - assets/icon/
     - assets/splash/
